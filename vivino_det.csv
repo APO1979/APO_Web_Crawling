@@ -1,0 +1,634 @@
+col_index,col_index_det,col_people,col_people_rating,col_people_link
+0,0,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+0,1,Reed,1316,https://www.vivino.com/users/reed
+0,2,Frank Paredes,43,https://www.vivino.com/users/frank-pare
+1,0,Steven Petrosino,1501,https://www.vivino.com/users/steven.petro
+1,1,Marco Vino,1569,https://www.vivino.com/users/marco_man
+1,2,Jock Busser,1,https://www.vivino.com/users/jock.b
+2,0,Laci champagne,4115,https://www.vivino.com/users/ladislauk
+2,1,Adrian Butuc,3227,https://www.vivino.com/users/gavril-adrianb
+2,2,BR,243,https://www.vivino.com/users/bruno-ramos
+3,0,Mats_kl,2371,https://www.vivino.com/users/mats-kl
+3,1,José C.,1385,https://www.vivino.com/users/josec19
+3,2,Declan Hegarty,565,https://www.vivino.com/users/declan_h
+4,0,Jason Hu,3518,https://www.vivino.com/users/jasonhu9
+4,1,Peter Knipp,126,https://www.vivino.com/users/peter_kni
+4,2,Matteo Furlan,1348,https://www.vivino.com/users/matteo_fur
+5,0,Nudge Stratford,3956,https://www.vivino.com/users/nudges
+5,1,Chris,394,https://www.vivino.com/users/mf8c51c8d53ffc0d6a75600d622a756b
+5,2,James Leighton,210,https://www.vivino.com/users/james-lei
+6,0,WineEducator,481,https://www.vivino.com/users/patrickhart0
+6,1,Rodrigo Sitta,4704,https://www.vivino.com/users/rodrigo.sit
+6,2,Bernardo F,1087,https://www.vivino.com/users/bernardof
+7,0,Kiko,629,https://www.vivino.com/users/kiko_a
+7,1,Helio Zveibil,902,https://www.vivino.com/users/helio.zv
+7,2,Kristian Fjeldgaard,877,https://www.vivino.com/users/kristian_fj
+8,0,Tatiana Livesey,793,https://www.vivino.com/users/tatiana.li
+8,1,Terry Hsiao,1651,https://www.vivino.com/users/terry.hsi
+8,2,Rasmus,1021,https://www.vivino.com/users/rasmus3
+9,0,Lars Nicolay Solbjørg,318,https://www.vivino.com/users/lars-nicolays
+9,1,Óscar Correia,520,https://www.vivino.com/users/scar.co
+9,2,Haris Naunitlal,428,https://www.vivino.com/users/haris.n
+10,0,!Matthew K,760,https://www.vivino.com/users/matthewk1
+10,1,EL Toh,931,https://www.vivino.com/users/tohe
+10,2,Sylvester Gbewonyo Jr.,4897,https://www.vivino.com/users/sylvester.g
+11,0,Johan P.,1675,https://www.vivino.com/users/johan.po
+11,1,Francis Douglas,1884,https://www.vivino.com/users/francis_do
+11,2,Sylvester Gbewonyo Jr.,4897,https://www.vivino.com/users/sylvester.g
+12,0,Justin Schenck,737,https://www.vivino.com/users/justin.schen
+12,1,MM,654,https://www.vivino.com/users/matthew.miller
+12,2,Daniel Cardoso,604,https://www.vivino.com/users/danielcardoso6
+13,0,Benjamin Bailleux,1779,https://www.vivino.com/users/benjamin.bai
+13,1,Mats_kl,2371,https://www.vivino.com/users/mats-kl
+13,2,Vino 58,596,https://www.vivino.com/users/vino.5
+14,0,Al Alvarez,1514,https://www.vivino.com/users/alalvarez
+14,1,BoozeBaron,226,https://www.vivino.com/users/tonci.jakicevich
+14,2,Deb Hemsey,633,https://www.vivino.com/users/deb-hem
+15,0,Mr Beach,189,https://www.vivino.com/users/paul.stran
+15,1,Roman Pavuk,921,https://www.vivino.com/users/roman.pavu
+15,2,Kristjan Bragason,307,https://www.vivino.com/users/kristjan.br
+16,0,Pedro Lobo,14,https://www.vivino.com/users/pedro.lobo4
+16,1,Emre Kavlak,951,https://www.vivino.com/users/emre-ka
+16,2,Luiz Octavio Moura,7049,https://www.vivino.com/users/luiz-octavio.m
+17,0,Don Quijote de la Mancha,472,https://www.vivino.com/users/aelioa
+17,1,Pszemo Pszemo,1413,https://www.vivino.com/users/pszemo.pszemo
+17,2,Renato Parra,1543,https://www.vivino.com/users/renato.parr
+18,0,Joao Silva,391,https://www.vivino.com/users/joaosilva2
+18,1,Rodrigo Sitta,4704,https://www.vivino.com/users/rodrigo.sit
+18,2,Antonio Azevedo,1905,https://www.vivino.com/users/antonio-aze
+19,0,Rafa Rizzo,382,https://www.vivino.com/users/rafarizzo
+19,1,Paulo Monteiro,418,https://www.vivino.com/users/paulo_montei
+19,2,Aluísio Leibanti,1108,https://www.vivino.com/users/alusiol
+20,0,Jeremy Seow,1451,https://www.vivino.com/users/jeremy-seow
+20,1,Chris England,2508,https://www.vivino.com/users/chrisengland
+20,2,bruno schenk - wine o'clock,2924,https://www.vivino.com/users/bruno71
+21,0,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+21,1,Mats_kl,2371,https://www.vivino.com/users/mats-kl
+21,2,Mattias Assmundson,2968,https://www.vivino.com/users/mattias.as
+22,0,Jorge Mario,2103,https://www.vivino.com/users/jorge-mario
+22,1,Inyenieur Ramon,1758,https://www.vivino.com/users/ramon.lec
+22,2,bruno schenk - wine o'clock,2924,https://www.vivino.com/users/bruno71
+23,0,Firat Balkan,1306,https://www.vivino.com/users/firat.b
+23,1,Bruno Mendes,815,https://www.vivino.com/users/bumendes
+23,2,Antoni Ferrer,1764,https://www.vivino.com/users/toni-fer
+24,0,Scott Van Kerkhove,779,https://www.vivino.com/users/lsuscott
+24,1,Chris Wilson,294,https://www.vivino.com/users/ed7aa5e7080de09dbcb115324f30d87d
+24,2,Kevin Ortzman,1349,https://www.vivino.com/users/kevin_ort
+25,0,bruno schenk - wine o'clock,2924,https://www.vivino.com/users/bruno71
+25,1,Gavin (The Wine Taster),5732,https://www.vivino.com/users/gavin-wit
+25,2,Antoni Ferrer,1764,https://www.vivino.com/users/toni-fer
+26,0,Karol Buczynski,610,https://www.vivino.com/users/karol.buczynski
+26,1,Antonio Mello,412,https://www.vivino.com/users/antonio.mello1
+26,2,Paulo Monteiro,418,https://www.vivino.com/users/paulo_montei
+27,0,Gaby M.,954,https://www.vivino.com/users/gaby.met
+27,1,Yvonne Couch,63,https://www.vivino.com/users/yvonne_cou
+27,2,Chin G,2795,https://www.vivino.com/users/chin-yeeg
+28,0,*Burgnut*,3310,https://www.vivino.com/users/burgnutm
+28,1,Champagne Spy,773,https://www.vivino.com/users/champagnespy
+28,2,Firat Balkan,1306,https://www.vivino.com/users/firat.b
+29,0,Kyle P,691,https://www.vivino.com/users/kylep
+29,1,Kevin Ortzman,1349,https://www.vivino.com/users/kevin_ort
+29,2,Dick Schinkel,2963,https://www.vivino.com/users/dick.sc
+30,0,bruno schenk - wine o'clock,2924,https://www.vivino.com/users/bruno71
+30,1,Tawanda M,326,https://www.vivino.com/users/tawanda.m
+30,2,Call me Tibbs,560,https://www.vivino.com/users/mister_t
+31,0,Ambassador Petrolhead,2963,https://www.vivino.com/users/jacoba4
+31,1,Gallery of Wines,818,https://www.vivino.com/users/john.bene
+31,2,Tor Erling Gunnerod,167,https://www.vivino.com/users/tor-erlingg
+32,0,Johan P.,1675,https://www.vivino.com/users/johan.po
+32,1,Firat Balkan,1306,https://www.vivino.com/users/firat.b
+32,2,German,2456,https://www.vivino.com/users/gino.vac
+33,0,DrC,3065,https://www.vivino.com/users/kevinchan2
+33,1,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+33,2,Al Alvarez,1514,https://www.vivino.com/users/alalvarez
+34,0,Guilherme Queiroga,207,https://www.vivino.com/users/guilherme-q
+34,1,Iulian Grigorescu,1148,https://www.vivino.com/users/iulian.g
+34,2,Jeferson Delpoio,1298,https://www.vivino.com/users/jefersond
+35,0,Felix Christen,4994,https://www.vivino.com/users/felix.chr
+35,1,Deano,1014,https://www.vivino.com/users/dean.milb
+35,2,Ben Arnold,1401,https://www.vivino.com/users/ben_arno
+36,0,Marco M,486,https://www.vivino.com/users/marco.moraz
+36,1,Artem Gulyaev,1398,https://www.vivino.com/users/artem_gul
+36,2,Mits Eguchi,2098,https://www.vivino.com/users/mitsuaki.eguchi
+37,0,Benz J,511,https://www.vivino.com/users/benzj
+37,1,Ptit LU E.,1972,https://www.vivino.com/users/ptit-lue
+37,2,Dick Schinkel,2963,https://www.vivino.com/users/dick.sc
+38,0,Adelino Dias,134,https://www.vivino.com/users/adelino-di
+38,1,Jose Matos,1933,https://www.vivino.com/users/jose.mato
+38,2,Se Chang Choi,262,https://www.vivino.com/users/se-changc
+39,0,Chris England,2508,https://www.vivino.com/users/chrisengland
+39,1,bruno schenk - wine o'clock,2924,https://www.vivino.com/users/bruno71
+39,2,Bela Nemeth,992,https://www.vivino.com/users/bela.n
+40,0,bruno schenk - wine o'clock,2924,https://www.vivino.com/users/bruno71
+40,1,Riccardo Tonelli,199,https://www.vivino.com/users/riccardo.ton
+40,2,Kyung Sun Chung,875,https://www.vivino.com/users/kyung-sunc
+41,0,Gaurav Agarwala,357,https://www.vivino.com/users/gaurav_ag
+41,1,Jack Owens,417,https://www.vivino.com/users/jack.ow
+41,2,Jeremy Seow,1451,https://www.vivino.com/users/jeremy-seow
+42,0,Dick Schinkel,2963,https://www.vivino.com/users/dick.sc
+42,1,Rafa Rizzo,382,https://www.vivino.com/users/rafarizzo
+42,2,Ameijer,2401,https://www.vivino.com/users/alexsandra.m
+43,0,@jon_misch,812,https://www.vivino.com/users/jon.m
+43,1,Arif B,1158,https://www.vivino.com/users/a_b276
+43,2,Steve LeMay,211,https://www.vivino.com/users/steve.lem
+44,0,Bruno Marques,600,https://www.vivino.com/users/bruno.marque
+44,1,Roderik Kelderman,9,https://www.vivino.com/users/roderik_k
+44,2,Alfredo Cardoso,21,https://www.vivino.com/users/alfredo.cardos
+45,0,Cathrine Todd,252,https://www.vivino.com/users/cathrine-to
+45,1,Bill Brown,209,https://www.vivino.com/users/m43d4055cb5b525c2ee959934fa18e42
+45,2,Benjamin Bailleux,1779,https://www.vivino.com/users/benjamin.bai
+46,0,Inyenieur Ramon,1758,https://www.vivino.com/users/ramon.lec
+46,1,Ed Yu,770,https://www.vivino.com/users/m398e4c106c0f632e6d7a38d9f5e5cea
+46,2,Touma Toufik-giorgos,973,https://www.vivino.com/users/touma.toufik-giorgos
+47,0,Volodymyr Zakharov,1394,https://www.vivino.com/users/volodymyr.z
+47,1,Inna Nasadiuk,1267,https://www.vivino.com/users/inna.nasadiuk
+47,2,Noldny,493,https://www.vivino.com/users/nolds
+48,0,Chris England,2508,https://www.vivino.com/users/chrisengland
+48,1,bruno schenk - wine o'clock,2924,https://www.vivino.com/users/bruno71
+48,2,Emre Kavlak,951,https://www.vivino.com/users/emre-ka
+49,0,Tim Powell,406,https://www.vivino.com/users/timpowell0
+49,1,Ned,327,https://www.vivino.com/users/ned_w
+49,2,Rodrigo Sitta,4704,https://www.vivino.com/users/rodrigo.sit
+50,0,Joel Bernhard,368,https://www.vivino.com/users/joel.be
+50,1,SOMMOS - Stefan,434,https://www.vivino.com/users/sommos.stefan
+50,2,R. Celestino,721,https://www.vivino.com/users/rui.celestino
+51,0,DrC,3065,https://www.vivino.com/users/kevinchan2
+51,1,Charles Belliard,136,https://www.vivino.com/users/charles.belli
+51,2,Thanin Angsuwarangsi,296,https://www.vivino.com/users/thanina
+52,0,Frank Cools,444,https://www.vivino.com/users/frank.cool
+52,1,Ken,3694,https://www.vivino.com/users/frauenknechtk
+52,2,Masaki Matsumae,3440,https://www.vivino.com/users/masakim
+53,0,Vlad Stupurak,422,https://www.vivino.com/users/vlad.stu
+53,1,Carlos Lopez Jall,1363,https://www.vivino.com/users/carlos_lopez-j
+53,2,Shurik,571,https://www.vivino.com/users/alexander-ab
+54,0,Jordan Rollins,565,https://www.vivino.com/users/jordan.rollins
+54,1,Marius Burger,337,https://www.vivino.com/users/marius.burg
+54,2,Jelle Schutte,3622,https://www.vivino.com/users/jelle_s
+55,0,Pak-Ming Wan,220,https://www.vivino.com/users/pak-mingw
+55,1,Ptit LU E.,1972,https://www.vivino.com/users/ptit-lue
+55,2,Veiga Bauler,2575,https://www.vivino.com/users/rodi.b
+56,0,Jose Carlos Manhaes,118,https://www.vivino.com/users/jose-carlos.man
+56,1,Alex Wacla,69,https://www.vivino.com/users/alex.wacl
+56,2,Mario Benedetti,241,https://www.vivino.com/users/mario_bene
+57,0,Springme,226,https://www.vivino.com/users/ibreak4wine
+57,1,Santtu Pulli,1414,https://www.vivino.com/users/m5aefb916581925492ea3c1a282b6ef3
+57,2,Raymond Lamontagne,807,https://www.vivino.com/users/raymond.lamontagne
+58,0,Rafa Rizzo,382,https://www.vivino.com/users/rafarizzo
+58,1,Rostislav,137,https://www.vivino.com/users/rostislav-r
+58,2,Fourclickflair,556,https://www.vivino.com/users/m42e3c414fdd6b732bb96ead131efc96
+59,0,Bo Ratz,904,https://www.vivino.com/users/m14247c139b0a4a4f44b653f9357215a
+59,1,v00alex,2572,https://www.vivino.com/users/m233185a7f95a7d2f814f631d9d648b5
+59,2,WineNinja,512,https://www.vivino.com/users/wine-ninjas
+60,0,Carlos Lopez Jall,1363,https://www.vivino.com/users/carlos_lopez-j
+60,1,Shamsh Haddade,248,https://www.vivino.com/users/shamshh
+60,2,Paulo Monteiro,418,https://www.vivino.com/users/paulo_montei
+61,0,Gwen Lim,288,https://www.vivino.com/users/gwen.lim
+61,1,Felix Christen,4994,https://www.vivino.com/users/felix.chr
+61,2,Mighty Milburn,572,https://www.vivino.com/users/mightym
+62,0,Mike Benson,3410,https://www.vivino.com/users/mike.benso
+62,1,Todd Papau,1081,https://www.vivino.com/users/todd.papau
+62,2,Woody Mouton,1315,https://www.vivino.com/users/woody-mo
+63,0,Derrick620,916,https://www.vivino.com/users/derricknovaco
+63,1,Brian Hunter,176,https://www.vivino.com/users/brian-hunte
+63,2,Gustav Hultsten,118,https://www.vivino.com/users/gustav.hultsten
+64,0,Luiz Octavio Moura,7049,https://www.vivino.com/users/luiz-octavio.m
+64,1,CaseyLeo,1077,https://www.vivino.com/users/leocasey14
+64,2,Alejandro Copley,633,https://www.vivino.com/users/alejandro-cop
+65,0,El K,2351,https://www.vivino.com/users/eliot.k
+65,1,Todd Carlson,1070,https://www.vivino.com/users/todd-carl
+65,2,Johnny O,1312,https://www.vivino.com/users/john_occ
+66,0,WineAdvocate,6253,https://www.vivino.com/users/ec61dd3520d86c52e665de6029fb1377
+66,1,F. Santos,794,https://www.vivino.com/users/filsant
+66,2,Christian Jansen,862,https://www.vivino.com/users/christian-jan
+67,0,Ralph Samuels,3129,https://www.vivino.com/users/ralph.sam
+67,1,Derrick620,916,https://www.vivino.com/users/derricknovaco
+67,2,"""Alte Reben""",1450,https://www.vivino.com/users/kristian-kas
+68,0,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+68,1,Haris Naunitlal,428,https://www.vivino.com/users/haris.n
+68,2,Susana Almeida,48,https://www.vivino.com/users/susana-alm
+69,0,Erik Schneider,1950,https://www.vivino.com/users/erik-schn
+69,1,KL,1043,https://www.vivino.com/users/keithlew1
+69,2,Christiaan Haesen,662,https://www.vivino.com/users/christiaan_h
+70,0,L Garcia,1434,https://www.vivino.com/users/abe0442ec717276025ec47f86efc204a
+70,1,Bert Svensson,1503,https://www.vivino.com/users/bert.svensson
+70,2,Ken Laversin,439,https://www.vivino.com/users/ken-lav
+71,0,Olof Hultgren,165,https://www.vivino.com/users/olof_hu
+71,1,Hans G. Bergmann,1715,https://www.vivino.com/users/hans.bergmann
+71,2,!! Donners !!,3086,https://www.vivino.com/users/claus.do
+72,0,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+72,1,Thomas Walker,746,https://www.vivino.com/users/thomas_walke
+72,2,Reed,1316,https://www.vivino.com/users/reed
+73,0,Heike Larsson,659,https://www.vivino.com/users/heike-l
+73,1,Davison Santana,303,https://www.vivino.com/users/davison-s
+73,2,Chris Wu,296,https://www.vivino.com/users/chriswu3
+74,0,Paul Smyth,9,https://www.vivino.com/users/paul-smyth2
+74,1,Benjamin Vald,2,https://www.vivino.com/users/benjamin.vald1
+74,2,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+75,0,Jorge Mario,2103,https://www.vivino.com/users/jorge-mario
+75,1,Thomas Weber Eriksen,303,https://www.vivino.com/users/thomas.web
+75,2,@pedro_cutillas,2723,https://www.vivino.com/users/pedro-cut
+76,0,Fattoria Due Cane,462,https://www.vivino.com/users/fattoriaduecane
+76,1,Ivan Rodrigues,487,https://www.vivino.com/users/ivan_r
+76,2,Faisal,209,https://www.vivino.com/users/faisala
+77,0,Mats G.,3897,https://www.vivino.com/users/mats.gy
+77,1,Murat Usenov,116,https://www.vivino.com/users/mattias.sm
+77,2,Felix Christen,4994,https://www.vivino.com/users/felix.chr
+78,0,Marian Greksa,247,https://www.vivino.com/users/marian.g
+78,1,Trey Williams,258,https://www.vivino.com/users/trey_wi
+78,2,Osasuna,168,https://www.vivino.com/users/peter.lisn
+79,0,Sam Lin,3433,https://www.vivino.com/users/sam_lin
+79,1,Denise Gan,346,https://www.vivino.com/users/denise-gan
+79,2,Allan Hamman,1228,https://www.vivino.com/users/allan.hamm
+80,0,@Shane G,1763,https://www.vivino.com/users/arcfire
+80,1,Andy B,5536,https://www.vivino.com/users/andy.barke
+80,2,Rock and Roll Wino,1971,https://www.vivino.com/users/kurt-dah
+81,0,Chris England,2508,https://www.vivino.com/users/chrisengland
+81,1,Per Nielsen,1703,https://www.vivino.com/users/pernielsen29
+81,2,Inyenieur Ramon,1758,https://www.vivino.com/users/ramon.lec
+82,0,Brad Freeman,2060,https://www.vivino.com/users/brad.free
+82,1,Erik Schneibli,3631,https://www.vivino.com/users/erik_schne
+82,2,Patrick Roddy,250,https://www.vivino.com/users/patrick-rodd
+83,0,Mats_kl,2371,https://www.vivino.com/users/mats-kl
+83,1,Alonso Abed,830,https://www.vivino.com/users/alonso.ab
+83,2,Mike Hartmann,962,https://www.vivino.com/users/mike.hartm
+84,0,David Wright,1952,https://www.vivino.com/users/david.wrigh
+84,1,Lewe Landluft,421,https://www.vivino.com/users/lewel
+84,2,Stan Metheny,914,https://www.vivino.com/users/stan.met
+85,0,Champagne Spy,773,https://www.vivino.com/users/champagnespy
+85,1,Robbie Priddle,2042,https://www.vivino.com/users/robbie-priddle
+85,2,Antonio Palmarini,2189,https://www.vivino.com/users/antonio-pf
+86,0,Jay,4232,https://www.vivino.com/users/jay.fro
+86,1,Alan Wu,922,https://www.vivino.com/users/alan_wu2
+86,2,Brianna M,125,https://www.vivino.com/users/brianna-m1
+87,0,Rafa Rizzo,382,https://www.vivino.com/users/rafarizzo
+87,1,Ѵ. Ł. Θġåŧa,444,https://www.vivino.com/users/victor.o
+87,2,Markus Z,6232,https://www.vivino.com/users/markusz
+88,0,Dick Schinkel,2963,https://www.vivino.com/users/dick.sc
+88,1,!! Donners !!,3086,https://www.vivino.com/users/claus.do
+88,2,Champagne Spy,773,https://www.vivino.com/users/champagnespy
+89,0,Mateo,583,https://www.vivino.com/users/matthew-sch
+89,1,Vino 58,596,https://www.vivino.com/users/vino.5
+89,2,Burgundy Addict,2890,https://www.vivino.com/users/stefi
+90,0,Miroslav,805,https://www.vivino.com/users/miroslav.ka
+90,1,Vivian schROEder,375,https://www.vivino.com/users/vivian.roe
+90,2,Jason Hu,3518,https://www.vivino.com/users/jasonhu9
+91,0,DrC,3065,https://www.vivino.com/users/kevinchan2
+91,1,Chris England,2508,https://www.vivino.com/users/chrisengland
+91,2,Thomas Engelund,2007,https://www.vivino.com/users/thomas.engelu
+92,0,Per Nielsen,1703,https://www.vivino.com/users/pernielsen29
+92,1,Craig Gallivan,107,https://www.vivino.com/users/craig-galli
+92,2,Florian WJ W,296,https://www.vivino.com/users/florian.weig
+93,0,Twitter: @WillBlackmon,369,https://www.vivino.com/users/will.blackm
+93,1,Inyenieur Ramon,1758,https://www.vivino.com/users/ramon.lec
+93,2,Champagne Spy,773,https://www.vivino.com/users/champagnespy
+94,0,Tanya,381,https://www.vivino.com/users/tanya.koo
+94,1,Jos Ploum,937,https://www.vivino.com/users/giupiuma
+94,2,John Webb,407,https://www.vivino.com/users/john-webb
+95,0,Marc Niketas,237,https://www.vivino.com/users/marc.nik
+95,1,Cptn. KUHN!,1373,https://www.vivino.com/users/thorsten.sc
+95,2,Jean,1709,https://www.vivino.com/users/jean.cilliers
+96,0,3WineGuys-Scott,2041,https://www.vivino.com/users/scottwilson0
+96,1,Felix Christen,4994,https://www.vivino.com/users/felix.chr
+96,2,Declan Hegarty,565,https://www.vivino.com/users/declan_h
+97,0,Christian Riva,323,https://www.vivino.com/users/m5d52c0f83700768607458b2d048bc1f
+97,1,-Psy-,2658,https://www.vivino.com/users/peter.gig
+97,2,Bart St,486,https://www.vivino.com/users/bart-steenk
+98,0,Iwo Zakowski,2764,https://www.vivino.com/users/iwo.za
+98,1,Kristian Downing,3442,https://www.vivino.com/users/kristian.dow
+98,2,newhouse,1578,https://www.vivino.com/users/nicn1
+99,0,Luís M,1129,https://www.vivino.com/users/luis-otavio.m
+99,1,Alain Legel,603,https://www.vivino.com/users/alain.lege
+99,2,Onder Sirikci,741,https://www.vivino.com/users/onders
+100,0,*Burgnut*,3310,https://www.vivino.com/users/burgnutm
+100,1,Andreas Schou,614,https://www.vivino.com/users/f0355561cbc33524072b9642a0e601c1
+100,2,Deena,1142,https://www.vivino.com/users/deenah0
+101,0,*Burgnut*,3310,https://www.vivino.com/users/burgnutm
+101,1,Marcos Simonsen,325,https://www.vivino.com/users/marcos.sim
+101,2,Jeff Costa Bravo,504,https://www.vivino.com/users/jeff-cos
+102,0,Peter Knipp,126,https://www.vivino.com/users/peter_kni
+102,1,Joe García Luna,569,https://www.vivino.com/users/joe-ga
+102,2,Ghassan Koteit,1485,https://www.vivino.com/users/ghassan.ko
+103,0,Steven Brunskill,3782,https://www.vivino.com/users/steven.brun
+103,1,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+103,2,Lucas Coppes,353,https://www.vivino.com/users/lucas_cop
+104,0,Juan Carlos Gallegos,2204,https://www.vivino.com/users/juan-carlos_gal
+104,1,Lombino,1550,https://www.vivino.com/users/alfonso.l
+104,2,GB,3315,https://www.vivino.com/users/giacomo-b
+105,0,Benjamin Bailleux,1779,https://www.vivino.com/users/benjamin.bai
+105,1,Fernando Perciano,4932,https://www.vivino.com/users/fernando.perc
+105,2,Arunkumar Tamilselvan,298,https://www.vivino.com/users/arunkumart
+106,0,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+106,1,*Burgnut*,3310,https://www.vivino.com/users/burgnutm
+106,2,Scott White,2184,https://www.vivino.com/users/scott.white
+107,0,Sorcha Holloway,524,https://www.vivino.com/users/sorcha-h
+107,1,Sam Lin,3433,https://www.vivino.com/users/sam_lin
+107,2,José Duca,900,https://www.vivino.com/users/jos.duc
+108,0,Arunas Starkus,2314,https://www.vivino.com/users/arunasstarkus
+108,1,Otto Hein Zwijnenberg RV,96,https://www.vivino.com/users/vinocho
+108,2,Maximilian Roher,584,https://www.vivino.com/users/maximilian.ro
+109,0,Michal Šetka,2997,https://www.vivino.com/users/michal.setka
+109,1,Vis-a-Vis,612,https://www.vivino.com/users/mark-wats
+109,2,Alex Hisco,1327,https://www.vivino.com/users/intovino
+110,0,Robert Redl,1678,https://www.vivino.com/users/robert.redl
+110,1,Gwen Lim,288,https://www.vivino.com/users/gwen.lim
+110,2,Adrian Nyffeler,10436,https://www.vivino.com/users/adrian_nuf
+111,0,Felipe de Castro,703,https://www.vivino.com/users/felipedecastro
+111,1,Alan Wu,922,https://www.vivino.com/users/alan_wu2
+111,2,mk,2003,https://www.vivino.com/users/s.mk
+112,0,Olivier D.,3582,https://www.vivino.com/users/olivierd2
+112,1,A Brilliant Havana Moon,2359,https://www.vivino.com/users/aaron.j1
+112,2,Yasuki Kikuchi,1295,https://www.vivino.com/users/yasukik
+113,0,Stretch,1038,https://www.vivino.com/users/m47feb1e55ac23db24922e6dc5f73e44
+113,1,Mark Allen,246,https://www.vivino.com/users/mark-allen
+113,2,Sylvester Gbewonyo Jr.,4897,https://www.vivino.com/users/sylvester.g
+114,0,Iwo Zakowski,2764,https://www.vivino.com/users/iwo.za
+114,1,Andrew,1195,https://www.vivino.com/users/andrew-log
+114,2,Jan Schäfer,499,https://www.vivino.com/users/jan.schafer
+115,0,Cult Wines International,169,https://www.vivino.com/users/cult-wines.international
+115,1,Pastore Serafino,1705,https://www.vivino.com/users/aldo.f
+115,2,Eduardo Guindo Olmos,367,https://www.vivino.com/users/eduardo-guin
+116,0,Arif B,1158,https://www.vivino.com/users/a_b276
+116,1,Felix Christen,4994,https://www.vivino.com/users/felix.chr
+116,2,Jelle Schutte,3622,https://www.vivino.com/users/jelle_s
+117,0,Chris England,2508,https://www.vivino.com/users/chrisengland
+117,1,MAM1,871,https://www.vivino.com/users/michael.mati
+117,2,! Yarivyo Wine Score,3255,https://www.vivino.com/users/yarivh
+118,0,Jeff Roberts,448,https://www.vivino.com/users/jeffroberts0
+118,1,Kalvin Suen,581,https://www.vivino.com/users/kalvin-s
+118,2,mk,2003,https://www.vivino.com/users/s.mk
+119,0,Tatiana S.,693,https://www.vivino.com/users/tatyana-se
+119,1,Felix Christen,4994,https://www.vivino.com/users/felix.chr
+119,2,Jean Sendero,4259,https://www.vivino.com/users/jean-sen
+120,0,Yury Markin,4012,https://www.vivino.com/users/yury.m
+120,1,Ken,3694,https://www.vivino.com/users/frauenknechtk
+120,2,Magnus Björkman,740,https://www.vivino.com/users/magnus.bjorkm
+121,0,Rostislav,137,https://www.vivino.com/users/rostislav-r
+121,1,Cyrill TC,566,https://www.vivino.com/users/cyrill.troxler
+121,2,Alfredo França,1047,https://www.vivino.com/users/alfredo_fr
+122,0,Keith Lim,446,https://www.vivino.com/users/keith.lim
+122,1,Nudge Stratford,3956,https://www.vivino.com/users/nudges
+122,2,Adrian Doss,300,https://www.vivino.com/users/adrian.dos
+123,0,Hans G. Bergmann,1715,https://www.vivino.com/users/hans.bergmann
+123,1,Jeremy Myers,1408,https://www.vivino.com/users/winesbyjeremy
+123,2,Zdenek Shamov,904,https://www.vivino.com/users/zdeneks
+124,0,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+124,1,bridegroom,7796,https://www.vivino.com/users/petra-brau
+124,2,Marc Niketas,237,https://www.vivino.com/users/marc.nik
+125,0,Gavin (The Wine Taster),5732,https://www.vivino.com/users/gavin-wit
+125,1,Mich k,1006,https://www.vivino.com/users/michelle-kw
+125,2,Jacques Mol,1228,https://www.vivino.com/users/jacques.m
+126,0,SOMMOS - Job,1555,https://www.vivino.com/users/jobs
+126,1,David P,1650,https://www.vivino.com/users/davidp20
+126,2,Luiz Octavio Moura,7049,https://www.vivino.com/users/luiz-octavio.m
+127,0,Matt Wilson,3759,https://www.vivino.com/users/mattwilson13
+127,1,George,231,https://www.vivino.com/users/stefano-gior
+127,2,Eduardo Montuori,475,https://www.vivino.com/users/eduardo-montu
+128,0,WineNinja,512,https://www.vivino.com/users/wine-ninjas
+128,1,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+128,2,Paul Pierce,1451,https://www.vivino.com/users/paul_pier
+129,0,Andreas Pfingstl,77,https://www.vivino.com/users/andreas.pf
+129,1,Mark van Delft,1014,https://www.vivino.com/users/mark.van-del
+129,2,Alexander Kharlamov,1225,https://www.vivino.com/users/alexander_kharl
+130,0,Jamie Edwards,313,https://www.vivino.com/users/jmedwards
+130,1,Joseph Calleja,1249,https://www.vivino.com/users/joseph-cal
+130,2,DrC,3065,https://www.vivino.com/users/kevinchan2
+131,0,Benjamin Macdonald,172,https://www.vivino.com/users/benjamin.macd
+131,1,Maria Domina,1279,https://www.vivino.com/users/maria.krav
+131,2,Fernando Kfouri,2106,https://www.vivino.com/users/fernando.kf
+132,0,Andrew Mjn,510,https://www.vivino.com/users/andrew.mjn
+132,1,Chad Sultzer,742,https://www.vivino.com/users/chad_su
+132,2,Marc Vanholst,1083,https://www.vivino.com/users/marc-vanho
+133,0,Captain Jack,383,https://www.vivino.com/users/jack.yo
+133,1,Luiz Octavio Moura,7049,https://www.vivino.com/users/luiz-octavio.m
+133,2,Pedro Bismarck,183,https://www.vivino.com/users/pedro.bism
+134,0,Wan Ming Sun,547,https://www.vivino.com/users/wan.mi
+134,1,Jungsik Yim,52,https://www.vivino.com/users/jungsiky
+134,2,Pierre David,5,https://www.vivino.com/users/pierredavid4
+135,0,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+135,1,Robert Cook,1463,https://www.vivino.com/users/robert.cook-
+135,2,Tiago Borges,290,https://www.vivino.com/users/tiago_bor
+136,0,MikeNoonan84,194,https://www.vivino.com/users/m1fc4574b0c0b463b04548b0402ec0e4
+136,1,Benjamin Bailleux,1779,https://www.vivino.com/users/benjamin.bai
+136,2,Kevin Lauzon,378,https://www.vivino.com/users/kevin.lauz
+137,0,Bethann Kendall,1409,https://www.vivino.com/users/bethannk
+137,1,Don Plumton,1043,https://www.vivino.com/users/don.pl
+137,2,Heike Larsson,659,https://www.vivino.com/users/heike-l
+138,0,Evgeny Zakhodnov,556,https://www.vivino.com/users/evgeny.zakhodnov
+138,1,Franz Fayot,44,https://www.vivino.com/users/franz.fa
+138,2,Vladimir Gloukhov,1422,https://www.vivino.com/users/vgloukhov
+139,0,Patrick Rikken,1793,https://www.vivino.com/users/patricir
+139,1,Roberto Algar,265,https://www.vivino.com/users/roberto.alg
+139,2,Thomas Religieux,96,https://www.vivino.com/users/thomas_rel
+140,0,Silje Daber,239,https://www.vivino.com/users/silje.dab
+140,1,Sam Valmassoi,319,https://www.vivino.com/users/sam.val
+140,2,Ralph Daber,244,https://www.vivino.com/users/ralph.dab
+141,0,2beer,442,https://www.vivino.com/users/ffd69d4aed37f1f4059b2991d1fbd6fc
+141,1,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+141,2,Jiří Pelka,364,https://www.vivino.com/users/jiri-pel
+142,0,Wine Circle,1773,https://www.vivino.com/users/jose-merin
+142,1,Peter Mok,1591,https://www.vivino.com/users/peter_mok
+142,2,Carly,200,https://www.vivino.com/users/meta.carly
+143,0,Robert Cook,1463,https://www.vivino.com/users/robert.cook-
+143,1,Nicholas Holm,601,https://www.vivino.com/users/nicholas_ho
+143,2,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+144,0,Angus Yeung,183,https://www.vivino.com/users/angus.yeu
+144,1,Michel Tardy,1714,https://www.vivino.com/users/michel.tar
+144,2,Adrian Chan,1601,https://www.vivino.com/users/adrianchan1
+145,0,Dave Chan,1306,https://www.vivino.com/users/davechan11
+145,1,Andres Onetto,135,https://www.vivino.com/users/andres.on
+145,2,Bok Nan Lo,3317,https://www.vivino.com/users/bok-nan.lo
+146,0,Jeffrey Silver,411,https://www.vivino.com/users/jeffrey.si
+146,1,Yagiz Sozmen,285,https://www.vivino.com/users/yagiz.sozmen
+146,2,Joshua Peter Siew,413,https://www.vivino.com/users/joshua-peters
+147,0,Mike Benson,3410,https://www.vivino.com/users/mike.benso
+147,1,John Andersen,2067,https://www.vivino.com/users/john_ander
+147,2,Marc Engels,1893,https://www.vivino.com/users/marc_en
+148,0,Mark Gudgel,5782,https://www.vivino.com/users/mark.gud
+148,1,John Andersen,2067,https://www.vivino.com/users/john_ander
+148,2,Dick Schinkel,2963,https://www.vivino.com/users/dick.sc
+149,0,Kenneth Hubner,2055,https://www.vivino.com/users/khybner
+149,1,! Yarivyo Wine Score,3255,https://www.vivino.com/users/yarivh
+149,2,Kevin Ortzman,1349,https://www.vivino.com/users/kevin_ort
+150,0,Champagne Spy,773,https://www.vivino.com/users/champagnespy
+150,1,Chris England,2508,https://www.vivino.com/users/chrisengland
+150,2,Antonio Palmarini,2189,https://www.vivino.com/users/antonio-pf
+151,0,Fabien Lainé,2481,https://www.vivino.com/users/fabienl
+151,1,Artigas,850,https://www.vivino.com/users/alejandro.art
+151,2,DF,3119,https://www.vivino.com/users/david.fult
+152,0,seoulseung,409,https://www.vivino.com/users/seung-eunc
+152,1,White Crow,582,https://www.vivino.com/users/iulia.mazur
+152,2,Vitor Dutra,184,https://www.vivino.com/users/vitor_dut
+153,0,Champagne Spy,773,https://www.vivino.com/users/champagnespy
+153,1,*Burgnut*,3310,https://www.vivino.com/users/burgnutm
+153,2,Felix Christen,4994,https://www.vivino.com/users/felix.chr
+154,0,bruno schenk - wine o'clock,2924,https://www.vivino.com/users/bruno71
+154,1,*Burgnut*,3310,https://www.vivino.com/users/burgnutm
+154,2,Inyenieur Ramon,1758,https://www.vivino.com/users/ramon.lec
+155,0,Daniele B,1739,https://www.vivino.com/users/danieleb8
+155,1,Jose Blanco,579,https://www.vivino.com/users/m2557e710dcac233926f33e4f4d84610
+155,2,Sean Croft,158,https://www.vivino.com/users/sean.croft
+156,0,Christine Havens,2745,https://www.vivino.com/users/christine.havens
+156,1,Tatiana Livesey,793,https://www.vivino.com/users/tatiana.li
+156,2,Tercio Ferraz,154,https://www.vivino.com/users/terciof
+157,0,Chris Nichols,925,https://www.vivino.com/users/chris.nichols1
+157,1,Justin,1250,https://www.vivino.com/users/justinbell2
+157,2,Steve Chin,345,https://www.vivino.com/users/stevechin0
+158,0,Scott Serfas,1446,https://www.vivino.com/users/scottserfas
+158,1,Adrian Nyffeler,10436,https://www.vivino.com/users/adrian_nuf
+158,2,Cosmin Grozea,725,https://www.vivino.com/users/cosmin-gr
+159,0,Rui Brandão,188,https://www.vivino.com/users/rui-bran
+159,1,Al Alvarez,1514,https://www.vivino.com/users/alalvarez
+159,2,Felix Christen,4994,https://www.vivino.com/users/felix.chr
+160,0,John W,861,https://www.vivino.com/users/johnw27
+160,1,Perifex,1490,https://www.vivino.com/users/sam.mcc
+160,2,Ali Rivera,262,https://www.vivino.com/users/ali-rive
+161,0,Vino50Wines (Andrew Stover #winepimp),195,https://www.vivino.com/users/andrew.stov
+161,1,DrC,3065,https://www.vivino.com/users/kevinchan2
+161,2,David Jarvis,1024,https://www.vivino.com/users/davidjarvis3
+162,0,Greg Woolley,675,https://www.vivino.com/users/greg_woolley
+162,1,Jammy wine,3054,https://www.vivino.com/users/jammy.wine
+162,2,Ellie,484,https://www.vivino.com/users/ellie.ki
+163,0,bruno schenk - wine o'clock,2924,https://www.vivino.com/users/bruno71
+163,1,SE 32,1691,https://www.vivino.com/users/edvins_s
+163,2,Adrian Nyffeler,10436,https://www.vivino.com/users/adrian_nuf
+164,0,3WineGuys-Scott,2041,https://www.vivino.com/users/scottwilson0
+164,1,Marc Hofstetter,324,https://www.vivino.com/users/marc-hofs
+164,2,Alan Duric,730,https://www.vivino.com/users/alan-d
+165,0,Jonathan Pellicano,904,https://www.vivino.com/users/jonathanpellicano
+165,1,Ahbra Perry,122,https://www.vivino.com/users/ahbrap
+165,2,Ben Dorweiler,129,https://www.vivino.com/users/ben.dorw
+166,0,Kevin Ortzman,1349,https://www.vivino.com/users/kevin_ort
+166,1,Vickie Li,408,https://www.vivino.com/users/vickieli1
+166,2,Benson Ho,703,https://www.vivino.com/users/benson.ho
+167,0,Danamoffatt,2161,https://www.vivino.com/users/danamoffatt
+167,1,Ken Kasper,2405,https://www.vivino.com/users/ken-ka
+167,2,Andy B,5536,https://www.vivino.com/users/andy.barke
+168,0,Chris England,2508,https://www.vivino.com/users/chrisengland
+168,1,Jammy wine,3054,https://www.vivino.com/users/jammy.wine
+168,2,Red Sipper,845,https://www.vivino.com/users/miles.si
+169,0,Dick Schinkel,2963,https://www.vivino.com/users/dick.sc
+169,1,! Yarivyo Wine Score,3255,https://www.vivino.com/users/yarivh
+169,2,Jack Madrid,3857,https://www.vivino.com/users/jack-mad
+170,0,Andrew Green,560,https://www.vivino.com/users/andygreen2
+170,1,Stuart Blake,163,https://www.vivino.com/users/stuart_bl
+170,2,WG,495,https://www.vivino.com/users/steve_robins
+171,0,DrC,3065,https://www.vivino.com/users/kevinchan2
+171,1,Urban Eriksson,4545,https://www.vivino.com/users/urban.er
+171,2,Sum,840,https://www.vivino.com/users/cammis
+172,0,Jeff Roberts,448,https://www.vivino.com/users/jeffroberts0
+172,1,David Young,257,https://www.vivino.com/users/davidyoung22
+172,2,Marco Vino,1569,https://www.vivino.com/users/marco_man
+173,0,Adrian Nyffeler,10436,https://www.vivino.com/users/adrian_nuf
+173,1,Colin H,3706,https://www.vivino.com/users/colinhousing
+173,2,Toby Chekhov,5150,https://www.vivino.com/users/toby-pi
+174,0,Dick Schinkel,2963,https://www.vivino.com/users/dick.sc
+174,1,Hans G. Bergmann,1715,https://www.vivino.com/users/hans.bergmann
+174,2,DrC,3065,https://www.vivino.com/users/kevinchan2
+175,0,Andrei Ristea,2422,https://www.vivino.com/users/andrei_ri
+175,1,v00alex,2572,https://www.vivino.com/users/m233185a7f95a7d2f814f631d9d648b5
+175,2,Benjamin Bailleux,1779,https://www.vivino.com/users/benjamin.bai
+176,0,Bryce Gillespie,563,https://www.vivino.com/users/bryce.gi
+176,1,Benjamin Bailleux,1779,https://www.vivino.com/users/benjamin.bai
+176,2,Vincent Li,331,https://www.vivino.com/users/vincentli5
+177,0,Davison Santana,303,https://www.vivino.com/users/davison-s
+177,1,Piet Verleysen,559,https://www.vivino.com/users/piet.verl
+177,2,MikeNoonan84,194,https://www.vivino.com/users/m1fc4574b0c0b463b04548b0402ec0e4
+178,0,Tayu Cheng,460,https://www.vivino.com/users/tayuc
+178,1,Le Cut,1669,https://www.vivino.com/users/cutbertop
+178,2,Adrian Nyffeler,10436,https://www.vivino.com/users/adrian_nuf
+179,0,Jack Madrid,3857,https://www.vivino.com/users/jack-mad
+179,1,Rob Salzer,388,https://www.vivino.com/users/rob_sal
+179,2,!! Donners !!,3086,https://www.vivino.com/users/claus.do
+180,0,Raymond Lau,610,https://www.vivino.com/users/raymondlau7
+180,1,njc,1747,https://www.vivino.com/users/nicholas.cow
+180,2,Joseph Calleja,1249,https://www.vivino.com/users/joseph-cal
+181,0,*Burgnut*,3310,https://www.vivino.com/users/burgnutm
+181,1,Cult Wines International,169,https://www.vivino.com/users/cult-wines.international
+181,2,Zdenek Shamov,904,https://www.vivino.com/users/zdeneks
+182,0,Adrian Nyffeler,10436,https://www.vivino.com/users/adrian_nuf
+182,1,Kalvin Suen,581,https://www.vivino.com/users/kalvin-s
+182,2,Annai Salazar,684,https://www.vivino.com/users/annais
+183,0,Jen Belden,1198,https://www.vivino.com/users/jen.belden
+183,1,Jonathan Pellicano,904,https://www.vivino.com/users/jonathanpellicano
+183,2,Martin Schriener,331,https://www.vivino.com/users/martin.schrie
+184,0,WineAdvocate,6253,https://www.vivino.com/users/ec61dd3520d86c52e665de6029fb1377
+184,1,Howard Weiss,414,https://www.vivino.com/users/howard-weis
+184,2,Jonathan Risting,561,https://www.vivino.com/users/jonathan_ris
+185,0,Evan Wiens,981,https://www.vivino.com/users/evanwiens
+185,1,Katy W,1304,https://www.vivino.com/users/katy-wal
+185,2,Vincent Li,331,https://www.vivino.com/users/vincentli5
+186,0,! Yarivyo Wine Score,3255,https://www.vivino.com/users/yarivh
+186,1,Toby Chekhov,5150,https://www.vivino.com/users/toby-pi
+186,2,Arnold Chan,305,https://www.vivino.com/users/arnold_ch
+187,0,Hans G. Bergmann,1715,https://www.vivino.com/users/hans.bergmann
+187,1,DrC,3065,https://www.vivino.com/users/kevinchan2
+187,2,Mich k,1006,https://www.vivino.com/users/michelle-kw
+188,0,Martin Simonnet,190,https://www.vivino.com/users/martin.simonn
+188,1,*KUCEY*,291,https://www.vivino.com/users/wg
+188,2,Runningbear 1,314,https://www.vivino.com/users/runningbear1
+189,0,Kenneth Hubner,2055,https://www.vivino.com/users/khybner
+189,1,Kevin Ortzman,1349,https://www.vivino.com/users/kevin_ort
+189,2,Damion Harris,246,https://www.vivino.com/users/damion_h
+190,0,Alan Wu,922,https://www.vivino.com/users/alan_wu2
+190,1,Felix Christen,4994,https://www.vivino.com/users/felix.chr
+190,2,Jeremy Seow,1451,https://www.vivino.com/users/jeremy-seow
+191,0,Kim hoe Leong,442,https://www.vivino.com/users/kim-hoel
+191,1,Nikolai Siimes,808,https://www.vivino.com/users/nikolai_si
+191,2,Sylvester Gbewonyo Jr.,4897,https://www.vivino.com/users/sylvester.g
+192,0,Ken,3694,https://www.vivino.com/users/frauenknechtk
+192,1,!! Donners !!,3086,https://www.vivino.com/users/claus.do
+192,2,Tom Vervoort,612,https://www.vivino.com/users/tom.vervo
+193,0,Brandon Erickson,958,https://www.vivino.com/users/brandon.er
+193,1,Jesper Huldgaard,1051,https://www.vivino.com/users/jesper.hu
+193,2,Arvo Kask,756,https://www.vivino.com/users/arvo.k
+194,0,Marcus Klein,726,https://www.vivino.com/users/marcus-kl
+194,1,Maximilian Roher,584,https://www.vivino.com/users/maximilian.ro
+194,2,Thomas Henell,146,https://www.vivino.com/users/thomas.hene
+195,0,WineAdvocate,6253,https://www.vivino.com/users/ec61dd3520d86c52e665de6029fb1377
+195,1,MissGnomer,1232,https://www.vivino.com/users/dorothyg
+195,2,Hood,283,https://www.vivino.com/users/hoodh
+196,0,Silvain Pastoris,1182,https://www.vivino.com/users/silvainp
+196,1,Antonio Azevedo,1905,https://www.vivino.com/users/antonio-aze
+196,2,Jeferson Delpoio,1298,https://www.vivino.com/users/jefersond
+197,0,Terry Richardson,280,https://www.vivino.com/users/terry.richar
+197,1,Chris England,2508,https://www.vivino.com/users/chrisengland
+197,2,A Stull,563,https://www.vivino.com/users/m020a0e951bfd4eb37c846676de5a653
+198,0,Mats_kl,2371,https://www.vivino.com/users/mats-kl
+198,1,Johan P.,1675,https://www.vivino.com/users/johan.po
+198,2,Hamza B,247,https://www.vivino.com/users/hamzab
+199,0,'rj',2167,https://www.vivino.com/users/richard_joy
+199,1,Laci champagne,4115,https://www.vivino.com/users/ladislauk
+199,2,Alyson Badami,115,https://www.vivino.com/users/alyson.bad
+200,0,Francisco Lopez,454,https://www.vivino.com/users/franciscolopez16
+200,1,mk,2003,https://www.vivino.com/users/s.mk
+200,2,Guille Irsermo,2566,https://www.vivino.com/users/guille-i
+201,0,David O,2308,https://www.vivino.com/users/david_ow
+201,1,Hans G. Bergmann,1715,https://www.vivino.com/users/hans.bergmann
+201,2,Jack Madrid,3857,https://www.vivino.com/users/jack-mad
+202,0,TysRez,1178,https://www.vivino.com/users/tysr
+202,1,Michal Šetka,2997,https://www.vivino.com/users/michal.setka
+202,2,Ptit LU E.,1972,https://www.vivino.com/users/ptit-lue
+203,0,Evan Wiens,981,https://www.vivino.com/users/evanwiens
+203,1,Vincent B,1287,https://www.vivino.com/users/vincent.boun
+203,2,Urban Eriksson,4545,https://www.vivino.com/users/urban.er
+204,0,Bruno Lugani,553,https://www.vivino.com/users/bruno_lug
+204,1,Chris England,2508,https://www.vivino.com/users/chrisengland
+204,2,Danny Dresselaerts,791,https://www.vivino.com/users/dannyd
+205,0,Adrian Nyffeler,10436,https://www.vivino.com/users/adrian_nuf
+205,1,Antonio Palmarini,2189,https://www.vivino.com/users/antonio-pf
+205,2,DF,3119,https://www.vivino.com/users/david.fult
+206,0,Ken Kasper,2405,https://www.vivino.com/users/ken-ka
+206,1,Mike Benson,3410,https://www.vivino.com/users/mike.benso
+206,2,M&M Cherevaty,1850,https://www.vivino.com/users/matt.chere
+207,0,bruno schenk - wine o'clock,2924,https://www.vivino.com/users/bruno71
+207,1,bridegroom,7796,https://www.vivino.com/users/petra-brau
+207,2,Ed Yu,770,https://www.vivino.com/users/m398e4c106c0f632e6d7a38d9f5e5cea
+208,0,Arunas Starkus,2314,https://www.vivino.com/users/arunasstarkus
+208,1,Jeffrey P,804,https://www.vivino.com/users/jeffrey.par
+208,2,Stefan Costache,1023,https://www.vivino.com/users/stef_clau
+209,0,Benjamin Bailleux,1779,https://www.vivino.com/users/benjamin.bai
+209,1,David P,1650,https://www.vivino.com/users/davidp20
+209,2,Sylvester Gbewonyo Jr.,4897,https://www.vivino.com/users/sylvester.g
+210,0,Alex Dantziguian,1108,https://www.vivino.com/users/alex.dant
+210,1,Ling Tin,979,https://www.vivino.com/users/ling.ti
+210,2,Ptit LU E.,1972,https://www.vivino.com/users/ptit-lue

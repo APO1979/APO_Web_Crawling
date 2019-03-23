@@ -1,0 +1,212 @@
+col_index,col_winery,col_wine,col_figure,col_rating,col_ratingC,col_location_country,col_location_region,col_url,col_year
+0,Niepoort,Colheita Port 1937,NA,4.9,35,Portugal,Colheita Port,https://www.vivino.com/niepoort-vinhos-sa-colheita-port/w/8971?year=1937&price_id=7709497,1937
+1,Quinta do Noval,Port Tawny Colheita 1937,NA,4.9,31,Portugal,Colheita Port,https://www.vivino.com/quinta-do-noval-port-tawny-colheita/w/1175612?year=1937&price_id=2210729,1937
+2,Casa Ferreirinha,Barca Velha Douro 2000,NA,4.8,1511,Portugal,Colheita Port,https://www.vivino.com/casa-ferreirinha-barca-velha-douro/w/75975?year=2000&price_id=5499601,2000
+3,Vega Sicilia,Unico 1996,NA,4.8,999,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-unico/w/77137?year=1996&price_id=3771442,1996
+4,Vega Sicilia,Unico 1998,NA,4.8,970,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-unico/w/77137?year=1998&price_id=3771445,1998
+5,Vega Sicilia,Unico 1995,NA,4.8,685,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-unico/w/77137?year=1995&price_id=16834653,1995
+6,Viña Cobos,Cobos Volturno 2013,NA,4.8,547,Spain,Ribera del Duero,https://www.vivino.com/vina-cobos-cobos-volturno/w/1505859?year=2013&price_id=12895939,2013
+7,Casa Ferreirinha,Barca Velha Douro 1982,NA,4.8,396,Spain,Ribera del Duero,https://www.vivino.com/casa-ferreirinha-barca-velha-douro/w/75975?year=1982&price_id=16834996,1982
+8,Taylor's,Very Old Single Harvest Port 1966,NA,4.8,291,Portugal,Tawny Port,https://www.vivino.com/taylors-port-very-old-single-harvest-port/w/1598998?year=1966&price_id=13109366,1966
+9,Casa Ferreirinha,Barca Velha Douro 1966,NA,4.8,273,Portugal,Tawny Port,https://www.vivino.com/casa-ferreirinha-barca-velha-douro/w/75975?year=1966&price_id=6964360,1966
+10,Krug,Clos d'Ambonnay Blanc de Noirs Brut Champagne 1998,NA,4.8,146,Portugal,Tawny Port,https://www.vivino.com/krug-clos-d-ambonnay-blanc-de-noirs-brut-champagne/w/1220504?year=1998&price_id=1413288,1998
+11,Krug,Clos du Mesnil Blanc de Blancs Brut Champagne 1996,NA,4.8,132,Portugal,Tawny Port,https://www.vivino.com/krug-clos-du-mesnil-blanc-de-blancs-brut-champagne/w/79635?year=1996&price_id=1112118,1996
+12,W. & J. Graham's,Single Harvest Tawny Port 1952,NA,4.8,115,Portugal,Tawny Port,https://www.vivino.com/w-and-j-grahams-single-harvest-tawny-port/w/1630149?year=1952&price_id=2210638,1952
+13,E. Guigal,Côte-Rôtie La Mouline 2009,NA,4.8,81,Portugal,Tawny Port,https://www.vivino.com/e-guigal-cote-rotie-la-mouline/w/36434?year=2009&price_id=16835154,2009
+14,Taylor's,Very Old Single Harvest Port 1968,NA,4.8,75,Portugal,Tawny Port,https://www.vivino.com/taylors-port-very-old-single-harvest-port/w/1598998?year=1968&price_id=17494896,1968
+15,Krohn,Colheita Porto 1968,NA,4.8,61,Portugal,Colheita Port,https://www.vivino.com/krohn-colheita-porto/w/1136061?year=1968&price_id=7390347,1968
+16,Mouchao,Alentejano Tonel No 3 - 4 2013,NA,4.8,46,Portugal,Alentejano,https://www.vivino.com/herdade-do-mouchao-alentejano-tonel-no-3-4/w/76442?year=2013&price_id=17815657,2013
+17,Cartuxa,Pêra-Manca Tinto 2011,NA,4.7,3356,Portugal,Alentejano,https://www.vivino.com/adega-cartuxa-pera-manca-tinto/w/2545450?year=2011&price_id=14152553,2011
+18,Cartuxa,Pêra-Manca Tinto 2008,NA,4.7,3247,Portugal,Alentejano,https://www.vivino.com/adega-cartuxa-pera-manca-tinto/w/2545450?year=2008&price_id=14152552,2008
+19,Cartuxa,Pêra-Manca Tinto 2010,NA,4.7,2791,Portugal,Alentejano,https://www.vivino.com/adega-cartuxa-pera-manca-tinto/w/2545450?year=2010&price_id=14152549,2010
+20,Vega Sicilia,Unico 2004,NA,4.7,2694,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-unico/w/77137?year=2004&price_id=2210871,2004
+21,Casa Ferreirinha,Barca Velha Douro 2004,NA,4.7,2645,Spain,Ribera del Duero,https://www.vivino.com/casa-ferreirinha-barca-velha-douro/w/75975?year=2004&price_id=8478678,2004
+22,Vega Sicilia,Unico 2000,NA,4.7,2485,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-unico/w/77137?year=2000&price_id=16834565,2000
+23,Vega Sicilia,Unico 2007,NA,4.7,2362,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-unico/w/77137?year=2007&price_id=3427053,2007
+24,Joseph Phelps,Insignia 2012,NA,4.7,2080,United States,Napa Valley,https://www.vivino.com/joseph-phelps-insignia/w/16587?year=2012&price_id=16759902,2012
+25,Vega Sicilia,Unico 2005,NA,4.7,1897,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-unico/w/77137?year=2005&price_id=16337169,2005
+26,Cartuxa,Pêra-Manca Tinto 2007,NA,4.7,1635,Spain,Ribera del Duero,https://www.vivino.com/adega-cartuxa-pera-manca-tinto/w/2545450?year=2007&price_id=3640448,2007
+27,Krug,Clos du Mesnil Blanc de Blancs Brut Champagne N.V.,NA,4.7,1515,Spain,Ribera del Duero,https://www.vivino.com/krug-clos-du-mesnil-blanc-de-blancs-brut-champagne/w/79635?year=N.V.&price_id=3885705,N.V.
+28,Dom Pérignon,P2 Plénitude Brut Champagne 1998,NA,4.7,1489,Spain,Ribera del Duero,https://www.vivino.com/dom-perignon-p2-plenitude-brut-champagne/w/3102815?year=1998&price_id=16835100,1998
+29,Château Pontet-Canet,Pauillac (Grand Cru Classé) 2009,NA,4.7,1412,Spain,Ribera del Duero,https://www.vivino.com/chateau-pontet-canet-pauillac-grand-cru-classe/w/14362?year=2009&price_id=4092090,2009
+30,Vega Sicilia,Unico 1999,NA,4.7,1317,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-unico/w/77137?year=1999&price_id=3771441,1999
+31,Antinori,Solaia 2007,NA,4.7,1238,Spain,Ribera del Duero,https://www.vivino.com/antinori-tuscany-solaia/w/1651?year=2007&price_id=16296427,2007
+32,Château d'Yquem,Sauternes 1997,NA,4.7,1233,Spain,Ribera del Duero,https://www.vivino.com/chateau-d-yquem-sauternes-sauternes-dessert-wine/w/1153863?year=1997&price_id=1375151,1997
+33,Château Lafite Rothschild,Pauillac (Premier Grand Cru Classé) 1999,NA,4.7,1225,Spain,Ribera del Duero,https://www.vivino.com/chateau-lafite-rothschild-pauillac-premier-grand-cru-classe-pauillac/w/3908?year=1999&price_id=13761857,1999
+34,Cartuxa,Pêra-Manca Tinto 2005,NA,4.7,1179,Spain,Ribera del Duero,https://www.vivino.com/adega-cartuxa-pera-manca-tinto/w/2545450?year=2005&price_id=14154721,2005
+35,Vega Sicilia,Unico 2002,NA,4.7,969,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-unico/w/77137?year=2002&price_id=2210830,2002
+36,Château Margaux,Margaux (Premier Grand Cru Classé) 2006,NA,4.7,869,Spain,Ribera del Duero,https://www.vivino.com/chateau-margaux-margaux-premier-grand-cru-classe/w/1127795?year=2006&price_id=3773276,2006
+37,Pétrus,Pomerol 2004,NA,4.7,829,Spain,Ribera del Duero,https://www.vivino.com/petrus-pomerol/w/1166837?year=2004&price_id=10470159,2004
+38,Cartuxa,Pêra-Manca Tinto 2013,NA,4.7,802,Spain,Ribera del Duero,https://www.vivino.com/adega-cartuxa-pera-manca-tinto/w/2545450?year=2013&price_id=14817857,2013
+39,Vega Sicilia,Unico 2006,NA,4.7,779,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-unico/w/77137?year=2006&price_id=15559004,2006
+40,Vega Sicilia,Unico 1994,NA,4.7,714,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-unico/w/77137?year=1994&price_id=3771440,1994
+41,Château Pavie,Saint-Émilion Grand Cru (Premier Grand Cru Classé) 2005,NA,4.7,705,France,Saint-Émilion Grand Cru,https://www.vivino.com/pavie-saint-emilion-grand-cru-premier-grand-cru-classe/w/1179539?year=2005&price_id=16835024,2005
+42,Château Angelus,Saint-Émilion Grand Cru (Premier Grand Cru Classé) 2005,NA,4.7,664,France,Saint-Émilion Grand Cru,https://www.vivino.com/chateau-angelus-saint-emilion-grand-cru-premier-grand-cru-classe/w/10175?year=2005&price_id=8146700,2005
+43,Pétrus,Pomerol 1994,NA,4.7,658,France,Saint-Émilion Grand Cru,https://www.vivino.com/petrus-pomerol/w/1166837?year=1994&price_id=12190748,1994
+44,Cartuxa,Pêra-Manca Tinto 2001,NA,4.7,618,France,Saint-Émilion Grand Cru,https://www.vivino.com/adega-cartuxa-pera-manca-tinto/w/2545450?year=2001&price_id=16835007,2001
+45,Château Cheval Blanc,Saint-Émilion Grand Cru (Premier Grand Cru Classé) 2000,NA,4.7,581,France,Saint-Émilion Grand Cru,https://www.vivino.com/cheval-blanc-saint-emilion-grand-cru-premier-grand-cru-classe/w/1148747?year=2000&price_id=12190756,2000
+46,Masseto,Toscana 2012,NA,4.7,563,France,Saint-Émilion Grand Cru,https://www.vivino.com/masseto-toscana/w/2446729?year=2012&price_id=11872009,2012
+47,Pétrus,Pomerol 2002,NA,4.7,558,France,Saint-Émilion Grand Cru,https://www.vivino.com/petrus-pomerol/w/1166837?year=2002&price_id=2210806,2002
+48,Vega Sicilia,Unico Reserva Especial Edición 2015,NA,4.7,514,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-unico-reserva-especial-edicion/w/77136?year=2015&price_id=13593796,2015
+49,Viña Cobos,Cobos Malbec 2013,NA,4.7,499,Spain,Ribera del Duero,https://www.vivino.com/vina-cobos-cobos-malbec/w/43934?year=2013&price_id=13761813,2013
+50,Pétrus,Pomerol 2007,NA,4.7,494,Spain,Ribera del Duero,https://www.vivino.com/petrus-pomerol/w/1166837?year=2007&price_id=2210763,2007
+51,Pétrus,Pomerol 2000,NA,4.7,482,Spain,Ribera del Duero,https://www.vivino.com/petrus-pomerol/w/1166837?year=2000&price_id=15174757,2000
+52,Vega Sicilia,Unico 1989,NA,4.7,457,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-unico/w/77137?year=1989&price_id=16834885,1989
+53,Pétrus,Pomerol 1997,NA,4.7,420,Spain,Ribera del Duero,https://www.vivino.com/petrus-pomerol/w/1166837?year=1997&price_id=12202186,1997
+54,Château Lafite Rothschild,Pauillac (Premier Grand Cru Classé) 2009,NA,4.7,409,Spain,Ribera del Duero,https://www.vivino.com/chateau-lafite-rothschild-pauillac-premier-grand-cru-classe-pauillac/w/3908?year=2009&price_id=4836011,2009
+55,Château Margaux,Margaux (Premier Grand Cru Classé) 2010,NA,4.7,312,Spain,Ribera del Duero,https://www.vivino.com/chateau-margaux-margaux-premier-grand-cru-classe/w/1127795?year=2010&price_id=16835180,2010
+56,Cartuxa,Pêra-Manca Tinto 1998,NA,4.7,304,Spain,Ribera del Duero,https://www.vivino.com/adega-cartuxa-pera-manca-tinto/w/2545450?year=1998&price_id=16834928,1998
+57,Taylor's,Very Old Single Harvest Port 1967,NA,4.7,206,Portugal,Tawny Port,https://www.vivino.com/taylors-port-very-old-single-harvest-port/w/1598998?year=1967&price_id=12138572,1967
+58,Viñedo Chadwick,Red 2014,NA,4.7,197,Portugal,Tawny Port,https://www.vivino.com/chadwick-red/w/2774263?year=2014&price_id=17494890,2014
+59,Domaine de La Romanée-Conti,Échezeaux Grand Cru 2010,NA,4.7,178,France,Échezeaux Grand Cru,https://www.vivino.com/domaine-de-la-romanee-conti-echezeaux-grand-cru/w/83917?year=2010&price_id=12341543,2010
+60,Legado,Douro Tinto 2012,NA,4.7,175,France,Échezeaux Grand Cru,https://www.vivino.com/legado-pt-douro-tinto/w/2495612?year=2012&price_id=17735039,2012
+61,Château Tertre Roteboeuf,Saint-Émilion Grand Cru 2010,NA,4.7,170,France,Saint-Émilion Grand Cru,https://www.vivino.com/tertre-roteboeuf-saint-emilion-grand-cru/w/1172486?year=2010&price_id=16834596,2010
+62,Casanova di Neri,Cerretalto Brunello di Montalcino 2012,NA,4.7,162,Italy,Brunello di Montalcino,https://www.vivino.com/casanova-di-neri-cerretalto-brunello-di-montalcino/w/81836?year=2012&price_id=16373923,2012
+63,Pétrus,Pomerol 2012,NA,4.7,153,Italy,Brunello di Montalcino,https://www.vivino.com/petrus-pomerol/w/1166837?year=2012&price_id=6355126,2012
+64,Catena Zapata,Estiba Reservada 2010,NA,4.7,137,Italy,Brunello di Montalcino,https://www.vivino.com/catena-zapata-estiba-reservada/w/1186732?year=2010&price_id=12946048,2010
+65,Paul Hobbs,Beckstoffer Dr. Crane Vineyard Cabernet Sauvignon 2014,NA,4.7,113,United States,St. Helena,https://www.vivino.com/paul-hobbs-beckstoffer-dr-crane-vineyard-cabernet-sauvignon/w/87663?year=2014&price_id=17949716,2014
+66,Kopke,Colheita Port 1957,NA,4.7,112,Portugal,Colheita Port,https://www.vivino.com/kopke-colheita-port/w/76372?year=1957&price_id=1111918,1957
+67,Pétrus,Pomerol 2013,NA,4.7,93,Portugal,Colheita Port,https://www.vivino.com/petrus-pomerol/w/1166837?year=2013&price_id=12202161,2013
+68,Cartuxa,Pêra-Manca Tinto 1994,NA,4.7,90,Portugal,Colheita Port,https://www.vivino.com/adega-cartuxa-pera-manca-tinto/w/2545450?year=1994&price_id=14152550,1994
+69,Soldera,Brunello di Montalcino Riserva 1994,NA,4.7,78,Italy,Brunello di Montalcino,https://www.vivino.com/soldera-brunello-di-montalcino-riserva/w/1174525?year=1994&price_id=17601113,1994
+70,Catena Zapata,Adrianna Vineyard Mundus Bacillus Terrae Malbec 2014,NA,4.7,60,Argentina,Tupungato,https://www.vivino.com/catena-zapata-adrianna-vineyard-mundus-bacillus-terrae-malbec-tupungato/w/5107190?year=2014&price_id=17578947,2014
+71,Château d'Yquem,Sauternes 1971,NA,4.7,45,Argentina,Tupungato,https://www.vivino.com/chateau-d-yquem-sauternes-sauternes-dessert-wine/w/1153863?year=1971&price_id=16834579,1971
+72,Kopke,Colheita Port 1937,NA,4.7,43,Portugal,Colheita Port,https://www.vivino.com/kopke-colheita-port/w/76372?year=1937&price_id=1112061,1937
+73,La Mondotte,Saint-Emilion Grand Cru (Premier Grand Cru Classé) 2009,NA,4.7,40,France,Saint-Émilion Grand Cru,https://www.vivino.com/la-mondotte-saint-emilion-grand-cru-premier-grand-cru-classe/w/14513?year=2009&price_id=16261497,2009
+74,Niepoort,Colheita Port 1934,NA,4.7,25,Portugal,Colheita Port,https://www.vivino.com/niepoort-vinhos-sa-colheita-port/w/8971?year=1934&price_id=3366825,1934
+75,Allende,Aurus 2006,NA,4.7,25,Portugal,Colheita Port,https://www.vivino.com/finca-allende-aurus/w/1162573?year=2006&price_id=16958601,2006
+76,Château Margaux,Margaux (Premier Grand Cru Classé) N.V.,NA,4.6,27369,Portugal,Colheita Port,https://www.vivino.com/chateau-margaux-margaux-premier-grand-cru-classe/w/1127795?year=N.V.&price_id=8147138,N.V.
+77,Château Haut-Brion,Pessac-Léognan (Premier Grand Cru Classé) N.V.,NA,4.6,23731,France,Pessac-Léognan,https://www.vivino.com/haut-brion-pessac-leognan-premier-grand-cru-classe/w/1152755?year=N.V.&price_id=8147157,N.V.
+78,Louis Roederer,Cristal Brut Champagne (Millésimé) N.V.,NA,4.6,21191,France,Pessac-Léognan,https://www.vivino.com/louis-roederer-cristal-brut-champagne-millesime/w/74304?year=N.V.&price_id=12630244,N.V.
+79,Dom Pérignon,Brut Rosé Champagne N.V.,NA,4.6,9150,France,Pessac-Léognan,https://www.vivino.com/dom-perignon-brut-rose-champagne/w/2114480?year=N.V.&price_id=2645539,N.V.
+80,Vega Sicilia,Valbuena 5º 2011,NA,4.6,5663,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-valbuena-5o/w/1175427?year=2011&price_id=16834485,2011
+81,Tenuta San Guido,Sassicaia 2012,NA,4.6,5511,Italy,Bolgheri Sassicaia,https://www.vivino.com/tenuta-san-guido-sassicaia/w/5078?year=2012&price_id=18301073,2012
+82,Opus One,Opus One 2012,NA,4.6,4927,United States,Napa Valley,https://www.vivino.com/opus-one-opus-one/w/1911534?year=2012&price_id=16834576,2012
+83,Vega Sicilia,Valbuena 5º 2010,NA,4.6,4552,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-valbuena-5o/w/1175427?year=2010&price_id=13629103,2010
+84,Vega Sicilia,Valbuena 5º 2007,NA,4.6,3965,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-valbuena-5o/w/1175427?year=2007&price_id=15653550,2007
+85,Louis Roederer,Cristal Brut Champagne (Millésimé) 2006,NA,4.6,3715,Spain,Ribera del Duero,https://www.vivino.com/louis-roederer-cristal-brut-champagne-millesime/w/74304?year=2006&price_id=803584,2006
+86,Opus One,Opus One 2014,NA,4.6,2984,United States,Napa Valley,https://www.vivino.com/opus-one-opus-one/w/1911534?year=2014&price_id=16834962,2014
+87,Almaviva,Almaviva 2011,NA,4.6,2931,United States,Napa Valley,https://www.vivino.com/almaviva-almaviva/w/4086?year=2011&price_id=1701708,2011
+88,Louis Roederer,Cristal Brut Champagne (Millésimé) 2002,NA,4.6,2270,United States,Napa Valley,https://www.vivino.com/louis-roederer-cristal-brut-champagne-millesime/w/74304?year=2002&price_id=12973469,2002
+89,Tenuta San Guido,Sassicaia 2004,NA,4.6,2144,Italy,Bolgheri Sassicaia,https://www.vivino.com/tenuta-san-guido-sassicaia/w/5078?year=2004&price_id=13621540,2004
+90,Antinori,Solaia 2011,NA,4.6,1507,Italy,Bolgheri Sassicaia,https://www.vivino.com/antinori-tuscany-solaia/w/1651?year=2011&price_id=13621555,2011
+91,Château Latour,Grand Vin Pauillac (Premier Grand Cru Classé) 1995,NA,4.6,1282,Italy,Bolgheri Sassicaia,https://www.vivino.com/fr-chateau-latour-grand-vin-pauillac-premier-grand-cru-classe/w/1655970?year=1995&price_id=6876618,1995
+92,Antinori,Solaia 2012,NA,4.6,1190,Italy,Bolgheri Sassicaia,https://www.vivino.com/antinori-tuscany-solaia/w/1651?year=2012&price_id=13614247,2012
+93,Krug,Brut Champagne 2000,NA,4.6,1163,Italy,Bolgheri Sassicaia,https://www.vivino.com/krug-brut-champagne/w/79631?year=2000&price_id=3556613,2000
+94,Casa Ferreirinha,Barca Velha Douro 2008,NA,4.6,1102,Italy,Bolgheri Sassicaia,https://www.vivino.com/casa-ferreirinha-barca-velha-douro/w/75975?year=2008&price_id=12293953,2008
+95,Antinori,Solaia 2013,NA,4.6,1050,Italy,Bolgheri Sassicaia,https://www.vivino.com/antinori-tuscany-solaia/w/1651?year=2013&price_id=16834916,2013
+96,Château Haut-Brion,Pessac-Léognan (Premier Grand Cru Classé) 2003,NA,4.6,797,France,Pessac-Léognan,https://www.vivino.com/haut-brion-pessac-leognan-premier-grand-cru-classe/w/1152755?year=2003&price_id=16835232,2003
+97,Ca' del Bosco,Cuvée Annamaria Clementi (Extra Brut) 2007,NA,4.6,770,France,Pessac-Léognan,https://www.vivino.com/ca-del-bosco-cuvee-annamaria-clementi-extra-brut/w/23130?year=2007&price_id=18246121,2007
+98,Château Haut-Brion,Pessac-Léognan (Premier Grand Cru Classé) 2006,NA,4.6,765,France,Pessac-Léognan,https://www.vivino.com/haut-brion-pessac-leognan-premier-grand-cru-classe/w/1152755?year=2006&price_id=16834637,2006
+99,Cartuxa,Pêra-Manca Tinto 2003,NA,4.6,685,France,Pessac-Léognan,https://www.vivino.com/adega-cartuxa-pera-manca-tinto/w/2545450?year=2003&price_id=14152554,2003
+100,Louis Roederer,Cristal Rosé Brut Champagne (Millésimé) 2007,NA,4.6,542,France,Pessac-Léognan,https://www.vivino.com/louis-roederer-cristal-rose-brut-champagne-millesime/w/74306?year=2007&price_id=14531731,2007
+101,Louis Roederer,Cristal Rosé Brut Champagne (Millésimé) 2006,NA,4.6,538,France,Pessac-Léognan,https://www.vivino.com/louis-roederer-cristal-rose-brut-champagne-millesime/w/74306?year=2006&price_id=3675576,2006
+102,Ruinart,Dom Ruinart Brut Champagne 1998,NA,4.6,488,France,Pessac-Léognan,https://www.vivino.com/champagne-ruinart-dom-ruinart-brut-champagne/w/1165282?year=1998&price_id=64849,1998
+103,Quinta do Noval,40 Year Old Tawny Port N.V.,NA,4.6,488,Portugal,Aged Tawny Port,https://www.vivino.com/quinta-do-noval-forty-year-old-tawny-port/w/81331?year=N.V.&price_id=3462698,N.V.
+104,Emilio Moro,Malleolus de Sanchomartin 2011,NA,4.6,468,Spain,Ribera del Duero,https://www.vivino.com/emilio-moro-malleolus-de-sanchomartin/w/11607?year=2011&price_id=16541371,2011
+105,Antinori,Solaia 2014,NA,4.6,439,Spain,Ribera del Duero,https://www.vivino.com/antinori-tuscany-solaia/w/1651?year=2014&price_id=17458539,2014
+106,Dow's,Vintage Port 2011,NA,4.6,429,Portugal,Vintage Port,https://www.vivino.com/dows-port-vintage-port/w/80415?year=2011&price_id=7567200,2011
+107,Bodegas Roda,Cirsion Rioja 2010,NA,4.6,383,Portugal,Vintage Port,https://www.vivino.com/bodegas-roda-cirsion-rioja/w/18717?year=2010&price_id=3557232,2010
+108,Château Cheval Blanc,Saint-Émilion Grand Cru (Premier Grand Cru Classé) 2011,NA,4.6,380,France,Saint-Émilion Grand Cru,https://www.vivino.com/cheval-blanc-saint-emilion-grand-cru-premier-grand-cru-classe/w/1148747?year=2011&price_id=6355109,2011
+109,Château l'Évangile,Pomerol 2006,NA,4.6,368,France,Saint-Émilion Grand Cru,https://www.vivino.com/chateau-l-evangile-pomerol/w/1108737?year=2006&price_id=16834971,2006
+110,Biserno,Bibbona 2009,NA,4.6,362,France,Saint-Émilion Grand Cru,https://www.vivino.com/tenuta-campo-di-sasso-bibbona/w/1186753?year=2009&price_id=17165015,2009
+111,Château Margaux,Margaux (Premier Grand Cru Classé) 2012,NA,4.6,338,France,Saint-Émilion Grand Cru,https://www.vivino.com/chateau-margaux-margaux-premier-grand-cru-classe/w/1127795?year=2012&price_id=6355108,2012
+112,Château La Mission Haut-Brion,Pessac-Léognan (Grand Cru Classé de Graves) 2006,NA,4.6,336,France,Pessac-Léognan,https://www.vivino.com/la-mission-haut-brion-pessac-leognan-grand-cru-classe-de-graves/w/1605285?year=2006&price_id=16502533,2006
+113,Pétrus,Pomerol 2010,NA,4.6,330,France,Pessac-Léognan,https://www.vivino.com/petrus-pomerol/w/1166837?year=2010&price_id=12202165,2010
+114,Dominio de Pingus,Pingus 2012,NA,4.6,319,Spain,Ribera del Duero,https://www.vivino.com/dominio-de-pingus-pingus/w/1876294?year=2012&price_id=5916596,2012
+115,Pétrus,Pomerol 2011,NA,4.6,307,Spain,Ribera del Duero,https://www.vivino.com/petrus-pomerol/w/1166837?year=2011&price_id=6355122,2011
+116,Château Lafite Rothschild,Pauillac (Premier Grand Cru Classé) 2010,NA,4.6,303,Spain,Ribera del Duero,https://www.vivino.com/chateau-lafite-rothschild-pauillac-premier-grand-cru-classe-pauillac/w/3908?year=2010&price_id=4836010,2010
+117,Château Ducru-Beaucaillou,Saint-Julien (Grand Cru Classé) 2010,NA,4.6,299,France,Saint-Julien,https://www.vivino.com/chateau-ducru-beaucaillou-saint-julien-grand-cru-classe/w/61744?year=2010&price_id=17304031,2010
+118,Château Haut-Brion,Pessac-Léognan (Premier Grand Cru Classé) 2012,NA,4.6,287,France,Pessac-Léognan,https://www.vivino.com/haut-brion-pessac-leognan-premier-grand-cru-classe/w/1152755?year=2012&price_id=6355128,2012
+119,Valdicava,Brunello di Montalcino Riserva Madonna del Piano 2010,NA,4.6,250,Italy,Brunello di Montalcino,https://www.vivino.com/valdicava-brunello-di-montalcino-riserva-madonna-del-piano/w/1242989?year=2010&price_id=16834624,2010
+120,Salvioni,Brunello di Montalcino 2006,NA,4.6,232,Italy,Brunello di Montalcino,https://www.vivino.com/salvioni-maria-grazia-brunello-di-montalcino/w/77458?year=2006&price_id=16296406,2006
+121,Viñedo Chadwick,Red 2010,NA,4.6,212,Italy,Brunello di Montalcino,https://www.vivino.com/chadwick-red/w/2774263?year=2010&price_id=9383751,2010
+122,Jim Barry,The Armagh Shiraz 2006,NA,4.6,181,Australia,Clare Valley,https://www.vivino.com/jim-barry-the-armagh-shiraz/w/31124?year=2006&price_id=16984944,2006
+123,Il Marroneto,Madonna delle Grazie Brunello di Montalcino 2012,NA,4.6,176,Italy,Brunello di Montalcino,https://www.vivino.com/il-marroneto-madonna-delle-grazie-brunello-di-montalcino/w/1171278?year=2012&price_id=15426531,2012
+124,Catena Zapata,Adrianna Vineyard Mundus Bacillus Terrae Malbec 2011,NA,4.6,169,Argentina,Tupungato,https://www.vivino.com/catena-zapata-adrianna-vineyard-mundus-bacillus-terrae-malbec-tupungato/w/5107190?year=2011&price_id=13069310,2011
+125,Domaine de La Romanée-Conti,Corton Grand Cru 2009,NA,4.6,125,France,Corton Grand Cru,https://www.vivino.com/domaine-de-la-romanee-conti-corton-grand-cru/w/2659159?year=2009&price_id=12341555,2009
+126,Montes,Taita Marchigüe Vineyard Cabernet Sauvignon 2010,NA,4.6,119,Chile,Colchagua Valley,https://www.vivino.com/montes-taita-marchigue-vineyard-cabernet-sauvignon/w/1807024?year=2010&price_id=15633004,2010
+127,Biondi-Santi,Brunello di Montalcino Riserva 2001,NA,4.6,114,Italy,Brunello di Montalcino,https://www.vivino.com/franco-biondi-santi-brunello-di-montalcino-riserva/w/82698?year=2001&price_id=341545,2001
+128,Krohn,Colheita Porto 1961,NA,4.6,99,Portugal,Colheita Port,https://www.vivino.com/krohn-colheita-porto/w/1136061?year=1961&price_id=7369759,1961
+129,Viñedos de Páganos,La Nieta 2007,NA,4.6,92,Portugal,Colheita Port,https://www.vivino.com/vinedos-de-paganos-la-nieta/w/1100735?year=2007&price_id=16958613,2007
+130,Château Ausone,Saint-Émilion Grand Cru (Premier Grand Cru Classé) 1983,NA,4.6,91,France,Saint-Émilion Grand Cru,https://www.vivino.com/ausone-saint-emilion-grand-cru-premier-grand-cru-classe/w/1152417?year=1983&price_id=16834633,1983
+131,Château Gilette,Sauternes (Crème de Tête) 1989,NA,4.6,89,France,Saint-Émilion Grand Cru,https://www.vivino.com/fr-chateau-gilette-sauternes-creme-de-tete/w/1822247?year=1989&price_id=595816,1989
+132,Tua Rita,Syrah Toscana 2008,NA,4.6,77,France,Saint-Émilion Grand Cru,https://www.vivino.com/tua-rita-syrah-toscana/w/1272234?year=2008&price_id=16296397,2008
+133,Quinta da Boavista - Tavares de Pina,Vinha do Ujo Vinhas Velhas 2013,NA,4.6,69,France,Saint-Émilion Grand Cru,https://www.vivino.com/tavares-vinha-do-ujo-vinhas-velhas-tinto/w/4443335?year=2013&price_id=17875085,2013
+134,Dom Pérignon,Oenothèque Brut Champagne 1971,NA,4.6,61,France,Saint-Émilion Grand Cru,https://www.vivino.com/dom-perignon-champagne-oenotheque-brut/w/1127808?year=1971&price_id=64877,1971
+135,Niepoort,Porto Garrafeira 1977,NA,4.6,48,France,Saint-Émilion Grand Cru,https://www.vivino.com/niepoort-vinhos-sa-porto-garrafeira/w/1267518?year=1977&price_id=3391940,1977
+136,E. Guigal,Côte-Rôtie La Turque 2012,NA,4.6,48,France,Saint-Émilion Grand Cru,https://www.vivino.com/e-guigal-cote-rotie-la-turque/w/1473611?year=2012&price_id=16834447,2012
+137,Kopke,Colheita Port 1938,NA,4.6,41,Portugal,Colheita Port,https://www.vivino.com/kopke-colheita-port/w/76372?year=1938&price_id=1111673,1938
+138,Camille Giroud,Charmes-Chambertin Grand Cru 2007,NA,4.6,37,France,Charmes-Chambertin Grand Cru,https://www.vivino.com/camille-giroud-charmes-chambertin-grand-cru/w/1215040?year=2007&price_id=8516809,2007
+139,Château Lagrézette,Le Pigeonnier Malbec 2003,NA,4.6,36,France,Charmes-Chambertin Grand Cru,https://www.vivino.com/lagrezette-le-pigeonnier-malbec/w/1313926?year=2003&price_id=594830,2003
+140,Royal Tokaji,Essencia 2003,NA,4.6,32,France,Charmes-Chambertin Grand Cru,https://www.vivino.com/royal-tokaji-essencia/w/1140747?year=2003&price_id=14947865,2003
+141,Barros,Colheita Porto 1937,NA,4.6,30,Portugal,Colheita Port,https://www.vivino.com/barros-porto-colheita-porto/w/1189822?year=1937&price_id=6628090,1937
+142,Dom Pérignon,Oenothèque Brut Champagne 1975,NA,4.6,30,Portugal,Colheita Port,https://www.vivino.com/dom-perignon-champagne-oenotheque-brut/w/1127808?year=1975&price_id=1375319,1975
+143,Niepoort,Colheita Port 1912,NA,4.6,27,Portugal,Colheita Port,https://www.vivino.com/niepoort-vinhos-sa-colheita-port/w/8971?year=1912&price_id=7709500,1912
+144,Vieux Château Certan,Pomerol 2015,NA,4.6,26,Portugal,Colheita Port,https://www.vivino.com/vieux-chateau-certan-pomerol/w/81849?year=2015&price_id=16834663,2015
+145,Château Mouton Rothschild,Pauillac (Premier Grand Cru Classé) N.V.,NA,4.5,44871,Portugal,Colheita Port,https://www.vivino.com/chateau-mouton-rothschild-pauillac-premier-grand-cru-classe/w/1684223?year=N.V.&price_id=8202375,N.V.
+146,Château Angelus,Saint-Émilion Grand Cru (Premier Grand Cru Classé) N.V.,NA,4.5,12957,France,Saint-Émilion Grand Cru,https://www.vivino.com/chateau-angelus-saint-emilion-grand-cru-premier-grand-cru-classe/w/10175?year=N.V.&price_id=8202274,N.V.
+147,Dom Pérignon,Brut Champagne 2004,NA,4.5,11778,France,Saint-Émilion Grand Cru,https://www.vivino.com/dom-perignon-brut-champagne/w/86684?year=2004&price_id=17934401,2004
+148,Dom Pérignon,Brut Champagne 2009,NA,4.5,7295,France,Saint-Émilion Grand Cru,https://www.vivino.com/dom-perignon-brut-champagne/w/86684?year=2009&price_id=18077066,2009
+149,Laurent-Perrier,Grand Siècle Champagne (Grande Cuvée) N.V.,NA,4.5,4827,France,Saint-Émilion Grand Cru,https://www.vivino.com/laurent-perrier-grand-siecle-champagne-grande-cuvee/w/1238419?year=N.V.&price_id=3556492,N.V.
+150,Louis Roederer,Cristal Brut Champagne (Millésimé) 2009,NA,4.5,3358,France,Saint-Émilion Grand Cru,https://www.vivino.com/louis-roederer-cristal-brut-champagne-millesime/w/74304?year=2009&price_id=17456224,2009
+151,Dow's,Vintage Port N.V.,NA,4.5,3192,Portugal,Vintage Port,https://www.vivino.com/dows-port-vintage-port/w/80415?year=N.V.&price_id=10651781,N.V.
+152,Deutz,Amour de Deutz Millésime Brut Champagne N.V.,NA,4.5,2395,Portugal,Vintage Port,https://www.vivino.com/deutz-amour-de-deutz-millesime-brut-champagne/w/1301256?year=N.V.&price_id=2073131,N.V.
+153,Krug,Brut Rosé Champagne N.V.,NA,4.5,2083,Portugal,Vintage Port,https://www.vivino.com/krug-brut-rose-champagne/w/79632?year=N.V.&price_id=2210666,N.V.
+154,Dom Pérignon,Brut Rosé Champagne 2004,NA,4.5,2054,Portugal,Vintage Port,https://www.vivino.com/dom-perignon-brut-rose-champagne/w/2114480?year=2004&price_id=17456220,2004
+155,Ornellaia,Bolgheri Superiore 2014,NA,4.5,1963,Italy,Bolgheri Superiore,https://www.vivino.com/ornellaia-bolgheri-superiore/w/22447?year=2014&price_id=16834856,2014
+156,Gaja,Barbaresco 2012,NA,4.5,1381,Italy,Bolgheri Superiore,https://www.vivino.com/gaja-barbaresco/w/66104?year=2012&price_id=17828624,2012
+157,W. & J. Graham's,40 Year Old Tawny Port N.V.,NA,4.5,1232,Portugal,Aged Tawny Port,https://www.vivino.com/w-and-j-grahams-forty-year-old-tawny-port/w/1180132?year=N.V.&price_id=17631147,N.V.
+158,Sena,Aconcagua Valley 2010,NA,4.5,1147,Chile,Aconcagua Valley,https://www.vivino.com/sena-aconcagua-valley/w/25474?year=2010&price_id=13621580,2010
+159,Prats & Symington (P+S),Chryseia Douro 2011,NA,4.5,1133,Chile,Aconcagua Valley,https://www.vivino.com/chryseia-chryseia-douro/w/1240543?year=2011&price_id=2210686,2011
+160,Vega Sicilia,Valbuena 5º 2013,NA,4.5,971,Spain,Ribera del Duero,https://www.vivino.com/vega-sicilia-valbuena-5o/w/1175427?year=2013&price_id=17868481,2013
+161,Château Pichon Baron,Pauillac (Grand Cru Classé) 1995,NA,4.5,860,Spain,Ribera del Duero,https://www.vivino.com/chateau-pichon-baron-pauillac-grand-cru-classe-pauillac-red-wine/w/79762?year=1995&price_id=16834561,1995
+162,Château Palmer,Margaux (Grand Cru Classé) 1995,NA,4.5,850,Spain,Ribera del Duero,https://www.vivino.com/chateau-palmer-margaux-grand-cru-classe/w/9220?year=1995&price_id=16835209,1995
+163,Sena,Aconcagua Valley 2012,NA,4.5,844,Chile,Aconcagua Valley,https://www.vivino.com/sena-aconcagua-valley/w/25474?year=2012&price_id=16834665,2012
+164,Château Haut-Brion,Pessac-Léognan (Premier Grand Cru Classé) 2007,NA,4.5,837,France,Pessac-Léognan,https://www.vivino.com/haut-brion-pessac-leognan-premier-grand-cru-classe/w/1152755?year=2007&price_id=8146725,2007
+165,Veuve Clicquot,La Grande Dame Brut Rosé Champagne N.V.,NA,4.5,805,France,Pessac-Léognan,https://www.vivino.com/veuve-clicquot-la-grande-dame-brut-rose-champagne/w/1384933?year=N.V.&price_id=15979003,N.V.
+166,Château Mouton Rothschild,Pauillac (Premier Grand Cru Classé) 2008,NA,4.5,801,France,Pessac-Léognan,https://www.vivino.com/chateau-mouton-rothschild-pauillac-premier-grand-cru-classe/w/1684223?year=2008&price_id=16834732,2008
+167,La Rioja Alta,Gran Reserva 890 2004,NA,4.5,791,France,Pessac-Léognan,https://www.vivino.com/la-rioja-alta-gran-reserva-890/w/7971?year=2004&price_id=16645946,2004
+168,La Rioja Alta,Gran Reserva 890 2001,NA,4.5,749,France,Pessac-Léognan,https://www.vivino.com/la-rioja-alta-gran-reserva-890/w/7971?year=2001&price_id=4048956,2001
+169,Château Léoville Las Cases,Saint-Julien (Grand Cru Classé) 1996,NA,4.5,701,France,Saint-Julien,https://www.vivino.com/chateau-leoville-las-cases-saint-julien-grand-cru-classe/w/81848?year=1996&price_id=18150525,1996
+170,Beringer,Private Reserve Cabernet Sauvignon 2007,NA,4.5,618,United States,Napa Valley,https://www.vivino.com/beringer-vineyards-private-reserve-cabernet-sauvignon/w/73673?year=2007&price_id=17768214,2007
+171,Château Mouton Rothschild,Le Petit Mouton de Mouton Rothschild Pauillac 2010,NA,4.5,575,United States,Napa Valley,https://www.vivino.com/chateau-mouton-rothschild-le-petit-mouton-de-mouton-rothschild-pauillac/w/2716528?year=2010&price_id=8146668,2010
+172,Dom Pérignon,Brut Champagne 1992,NA,4.5,572,United States,Napa Valley,https://www.vivino.com/dom-perignon-brut-champagne/w/86684?year=1992&price_id=16834884,1992
+173,Château Mouton Rothschild,Pauillac (Premier Grand Cru Classé) 2012,NA,4.5,569,United States,Napa Valley,https://www.vivino.com/chateau-mouton-rothschild-pauillac-premier-grand-cru-classe/w/1684223?year=2012&price_id=6355121,2012
+174,Château Montrose,Saint-Estèphe (Grand Cru Classé) 2009,NA,4.5,539,France,Saint-Estèphe,https://www.vivino.com/chateau-montrose-saint-estephe-grand-cru-classe/w/80472?year=2009&price_id=4062360,2009
+175,Château Pichon Longueville Comtesse de Lalande,Pauillac (Grand Cru Classé) 2010,NA,4.5,520,France,Saint-Estèphe,https://www.vivino.com/chateau-pichon-longueville-comtesse-de-lalande-pauillac-grand-cru-classe/w/1125543?year=2010&price_id=16502486,2010
+176,Château Margaux,Margaux (Premier Grand Cru Classé) 2008,NA,4.5,520,France,Saint-Estèphe,https://www.vivino.com/chateau-margaux-margaux-premier-grand-cru-classe/w/1127795?year=2008&price_id=8146845,2008
+177,Sena,Aconcagua Valley 2015,NA,4.5,514,Chile,Aconcagua Valley,https://www.vivino.com/sena-aconcagua-valley/w/25474?year=2015&price_id=17833314,2015
+178,Château Lafite Rothschild,Pauillac (Premier Grand Cru Classé) 2011,NA,4.5,467,Chile,Aconcagua Valley,https://www.vivino.com/chateau-lafite-rothschild-pauillac-premier-grand-cru-classe-pauillac/w/3908?year=2011&price_id=4836008,2011
+179,Conterno,Barolo Cascina Francia 2009,NA,4.5,430,Chile,Aconcagua Valley,https://www.vivino.com/conterno-barolo-cascina-francia/w/82203?year=2009&price_id=16834831,2009
+180,Château Angelus,Saint-Émilion Grand Cru (Premier Grand Cru Classé) 2010,NA,4.5,424,France,Saint-Émilion Grand Cru,https://www.vivino.com/chateau-angelus-saint-emilion-grand-cru-premier-grand-cru-classe/w/10175?year=2010&price_id=16835042,2010
+181,Château Figeac,Saint-Émilion Grand Cru (Premier Grand Cru Classé) 1990,NA,4.5,422,France,Saint-Émilion Grand Cru,https://www.vivino.com/figeac-saint-emilion-grand-cru-premier-grand-cru-classe/w/16778?year=1990&price_id=16834682,1990
+182,Château Mouton Rothschild,Pauillac (Premier Grand Cru Classé) 2011,NA,4.5,421,France,Saint-Émilion Grand Cru,https://www.vivino.com/chateau-mouton-rothschild-pauillac-premier-grand-cru-classe/w/1684223?year=2011&price_id=17985172,2011
+183,Louis Roederer,Cristal Rosé Brut Champagne (Millésimé) 2009,NA,4.5,406,France,Saint-Émilion Grand Cru,https://www.vivino.com/louis-roederer-cristal-rose-brut-champagne-millesime/w/74306?year=2009&price_id=16834858,2009
+184,Armand de Brignac,Brut Rosé Champagne N.V.,NA,4.5,404,France,Saint-Émilion Grand Cru,https://www.vivino.com/armand-de-brignac-brut-rose-champagne/w/1441825?year=N.V.&price_id=10709065,N.V.
+185,Château Haut-Brion,Pessac-Léognan (Premier Grand Cru Classé) 2011,NA,4.5,402,France,Pessac-Léognan,https://www.vivino.com/haut-brion-pessac-leognan-premier-grand-cru-classe/w/1152755?year=2011&price_id=6355101,2011
+186,Château Cos d'Estournel,Saint-Estèphe (Grand Cru Classé) 2010,NA,4.5,401,France,Saint-Estèphe,https://www.vivino.com/chateau-cos-d-estournel-saint-estephe-grand-cru-classe/w/74346?year=2010&price_id=16734371,2010
+187,Château Latour,Grand Vin Pauillac (Premier Grand Cru Classé) 1975,NA,4.5,381,France,Saint-Estèphe,https://www.vivino.com/fr-chateau-latour-grand-vin-pauillac-premier-grand-cru-classe/w/1655970?year=1975&price_id=16834543,1975
+188,Château Lafite Rothschild,Carruades de Lafite Pauillac 2005,NA,4.5,381,France,Saint-Estèphe,https://www.vivino.com/chateau-lafite-rothschild-carruades-de-lafite-pauillac/w/23793?year=2005&price_id=10734497,2005
+189,Stag's Leap Wine Cellars,CASK 23 Cabernet Sauvignon 2009,NA,4.5,323,United States,Napa Valley,https://www.vivino.com/stag-s-leap-wine-cellars-cask-23-cabernet-sauvignon/w/2653222?year=2009&price_id=17399875,2009
+190,Château Lafite Rothschild,Pauillac (Premier Grand Cru Classé) 2012,NA,4.5,318,United States,Napa Valley,https://www.vivino.com/chateau-lafite-rothschild-pauillac-premier-grand-cru-classe-pauillac/w/3908?year=2012&price_id=4836009,2012
+191,Château Angelus,Saint-Émilion Grand Cru (Premier Grand Cru Classé) 2012,NA,4.5,315,France,Saint-Émilion Grand Cru,https://www.vivino.com/chateau-angelus-saint-emilion-grand-cru-premier-grand-cru-classe/w/10175?year=2012&price_id=13593003,2012
+192,Conterno,Barolo Cascina Francia 2011,NA,4.5,311,France,Saint-Émilion Grand Cru,https://www.vivino.com/conterno-barolo-cascina-francia/w/82203?year=2011&price_id=17052869,2011
+193,Château Margaux,Margaux (Premier Grand Cru Classé) 2011,NA,4.5,308,France,Saint-Émilion Grand Cru,https://www.vivino.com/chateau-margaux-margaux-premier-grand-cru-classe/w/1127795?year=2011&price_id=6355120,2011
+194,Château Léoville Las Cases,Saint-Julien (Grand Cru Classé) 2010,NA,4.5,301,France,Saint-Julien,https://www.vivino.com/chateau-leoville-las-cases-saint-julien-grand-cru-classe/w/81848?year=2010&price_id=16502541,2010
+195,Armand de Brignac,Blanc de Blancs Champagne (Silver) N.V.,NA,4.5,298,France,Saint-Julien,https://www.vivino.com/armand-de-brignac-blanc-de-blancs-champagne-silver/w/1275361?year=N.V.&price_id=17934403,N.V.
+196,Château Cheval Blanc,Saint-Émilion Grand Cru (Premier Grand Cru Classé) 2008,NA,4.5,296,France,Saint-Émilion Grand Cru,https://www.vivino.com/cheval-blanc-saint-emilion-grand-cru-premier-grand-cru-classe/w/1148747?year=2008&price_id=12190568,2008
+197,Stag's Leap Wine Cellars,FAY Cabernet Sauvignon 2006,NA,4.5,295,United States,Napa Valley,https://www.vivino.com/stag-s-leap-wine-cellars-fay-cabernet-sauvignon/w/1107322?year=2006&price_id=17082861,2006
+198,Château Figeac,Saint-Émilion Grand Cru (Premier Grand Cru Classé) 2010,NA,4.5,282,France,Saint-Émilion Grand Cru,https://www.vivino.com/figeac-saint-emilion-grand-cru-premier-grand-cru-classe/w/16778?year=2010&price_id=16502582,2010
+199,Veuve Clicquot,La Grande Dame Brut Rosé Champagne 2004,NA,4.5,271,France,Saint-Émilion Grand Cru,https://www.vivino.com/veuve-clicquot-la-grande-dame-brut-rose-champagne/w/1384933?year=2004&price_id=15978933,2004
+200,Château Cheval Blanc,Saint-Émilion Grand Cru (Premier Grand Cru Classé) 2012,NA,4.5,266,France,Saint-Émilion Grand Cru,https://www.vivino.com/cheval-blanc-saint-emilion-grand-cru-premier-grand-cru-classe/w/1148747?year=2012&price_id=6355110,2012
+201,Château Haut-Brion,Pessac-Léognan (Premier Grand Cru Classé) 1966,NA,4.5,265,France,Pessac-Léognan,https://www.vivino.com/haut-brion-pessac-leognan-premier-grand-cru-classe/w/1152755?year=1966&price_id=16834582,1966
+202,Château l'Évangile,Pomerol 2007,NA,4.5,255,France,Pessac-Léognan,https://www.vivino.com/chateau-l-evangile-pomerol/w/1108737?year=2007&price_id=13624125,2007
+203,Château La Mission Haut-Brion,Pessac-Léognan (Grand Cru Classé de Graves) 2011,NA,4.5,225,France,Pessac-Léognan,https://www.vivino.com/la-mission-haut-brion-pessac-leognan-grand-cru-classe-de-graves/w/1605285?year=2011&price_id=16572883,2011
+204,Tua Rita,Redigaffi Toscana 2014,NA,4.5,213,France,Pessac-Léognan,https://www.vivino.com/tua-rita-redigaffi-toscana/w/75816?year=2014&price_id=16786973,2014
+205,Château La Conseillante,Pomerol 2010,NA,4.5,199,France,Pessac-Léognan,https://www.vivino.com/la-conseillante-pomerol/w/768733?year=2010&price_id=16502583,2010
+206,La Spinetta,Vürsù Barbaresco Gallina 2006,NA,4.5,193,France,Pessac-Léognan,https://www.vivino.com/la-spinetta-vursu-barbaresco-gallina/w/2003036?year=2006&price_id=186479,2006
+207,Masseto,Toscana 2014,NA,4.5,189,France,Pessac-Léognan,https://www.vivino.com/masseto-toscana/w/2446729?year=2014&price_id=17494906,2014
+208,Louis Latour,Corton-Charlemagne Grand Cru 2014,NA,4.5,185,France,Corton-Charlemagne Grand Cru,https://www.vivino.com/louis-latour-corton-charlemagne-grand-cru/w/7273?year=2014&price_id=16688214,2014
+209,Château Pavie,Saint-Émilion Grand Cru (Premier Grand Cru Classé) 2012,NA,4.5,173,France,Saint-Émilion Grand Cru,https://www.vivino.com/pavie-saint-emilion-grand-cru-premier-grand-cru-classe/w/1179539?year=2012&price_id=6355114,2012
+210,Château Latour,Grand Vin Pauillac (Premier Grand Cru Classé) 2011,NA,4.5,158,France,Saint-Émilion Grand Cru,https://www.vivino.com/fr-chateau-latour-grand-vin-pauillac-premier-grand-cru-classe/w/1655970?year=2011&price_id=6355125,2011
