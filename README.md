@@ -11,9 +11,9 @@ As well as the following python libraries:
 - csv
 - time
 
-Main script: vivino.py
+Main script: script_Web_Crawling_Vivino.py
 
-Main PBI: vivino.pbix
+Main PBI: APO_WebCrawling_Vivino.pbix
 
 Files generated: vivino.csv e vivino_det.csv
 
